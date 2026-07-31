@@ -1,0 +1,4 @@
+[install] Starting SC2 package installation
+[install] Persistence configuration created
+[install] Benign payload installed
+[install] Installation finished

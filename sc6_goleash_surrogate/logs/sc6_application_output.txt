@@ -1,0 +1,2 @@
+SC6 GoLeash Surrogate
+[runtime] Build artifact package created

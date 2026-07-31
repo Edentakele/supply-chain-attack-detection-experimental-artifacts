@@ -1,0 +1,3 @@
+warning: install modified and changed /Users/eden/Desktop/verified_experiments/sc1_foreman_surrogate/outputs
+warning: install created /Users/eden/Desktop/verified_experiments/sc1_foreman_surrogate/outputs/install_completed.marker
+warning: install created /Users/eden/Desktop/verified_experiments/sc1_foreman_surrogate/outputs/payload_execution.marker

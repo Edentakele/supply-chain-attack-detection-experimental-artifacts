@@ -1,0 +1,6 @@
+install accessed /Users/eden/Desktop/verified_experiments/sc1_foreman_surrogate/tests
+install accessed /Users/eden/Desktop/verified_experiments/sc1_foreman_surrogate/payload_stage
+install modified and changed /Users/eden/Desktop/verified_experiments/sc1_foreman_surrogate/outputs
+install accessed /Users/eden/Desktop/verified_experiments/sc1_foreman_surrogate/package
+install created /Users/eden/Desktop/verified_experiments/sc1_foreman_surrogate/outputs/install_completed.marker
+install created /Users/eden/Desktop/verified_experiments/sc1_foreman_surrogate/outputs/payload_execution.marker

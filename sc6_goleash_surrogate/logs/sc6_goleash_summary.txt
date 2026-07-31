@@ -1,0 +1,18 @@
+SC6 GoLeash result
+
+Ground-truth stages:
+1. Credential Exposure
+2. Build Modification
+3. Artifact Packaging
+4. Publishing
+
+Detected stage:
+- Artifact Packaging
+
+Evidence:
+- GoLeash attributed archive and file activity to github.com/sc6surrogate/artifactbehavior.
+- The traced caller function was artifactbehavior.Run.
+- The captured stack trace included archive/zip.(*Writer).Close and os.OpenFile.
+- The generated tracestore contains a non-empty dependency entry.
+
+Coverage: 1/4 = 25%

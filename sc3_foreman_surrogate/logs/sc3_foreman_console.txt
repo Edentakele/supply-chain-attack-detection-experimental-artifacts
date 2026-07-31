@@ -1,0 +1,3 @@
+[install] Starting SC3 package installation
+[install] Benign archive created
+[install] Installation finished

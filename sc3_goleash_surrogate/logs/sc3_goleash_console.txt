@@ -1,0 +1,6346 @@
+Loading binary symbols from: /home/eden/verified_experiments/sc3_goleash_surrogate/app/sc3surrogate
+Successfully cached 3510 symbols for binary: sc3surrogate
+
+18:38:05 
+Tracking syscalls
+18:38:05 List of binaries being tracked...
+/home/eden/verified_experiments/sc3_goleash_surrogate/app/sc3surrogate
+
++------------------------------------------------------------+
+| Invoked syscall: 214	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c816d38
+0xeae23c812268
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c818488
+0xeae23c8056d4
+0xeae23c801810
+0xeae23c814a80
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 48	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_LISTEN_LOCAL
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c817ca0
+0xeae23c814d28
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 56	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c818148
+0xeae23c805920
+0xeae23c80e1a0
+0xeae23c803600
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 80	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c817cf8
+0xeae23c805948
+0xeae23c80e1a0
+0xeae23c803600
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c818488
+0xeae23c80599c
+0xeae23c80e1a0
+0xeae23c803600
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 57	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c817f38
+0xeae23c80596c
+0xeae23c80e1a0
+0xeae23c803600
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 56	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c818148
+0xeae23c800330
+0xeae23c803634
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 63	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c818238
+0xeae23c800364
+0xeae23c803634
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 80	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c817cf8
+0xeae23c802188
+0xeae23c803358
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c818488
+0xeae23c802bc0
+0xeae23c803358
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c818488
+0xeae23c802bfc
+0xeae23c803358
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 215	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c81854c
+0xeae23c803358
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 215	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c81854c
+0xeae23c803358
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 226	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c81850c
+0xeae23c803358
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c818488
+0xeae23c802124
+0xeae23c803358
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c818488
+0xeae23c802858
+0xeae23c803358
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c818488
+0xeae23c80e578
+0xeae23c801c88
+0xeae23c802720
+0xeae23c803358
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 57	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c817f38
+0xeae23c802a0c
+0xeae23c803358
+0xeae23c7fd600
+0xeae23c7fc22c
+0xeae23c7fdb70
+0xeae23c814d78
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 96	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c80c538
+0xeae23c812c24
+0xeae23c81599c
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 99	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c80c578
+0xeae23c812c24
+0xeae23c81599c
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 293	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c80c618
+0xeae23c812c24
+0xeae23c81599c
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 226	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c81850c
+0xeae23c814f8c
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c818488
+0xeae23c8056d4
+0xeae23c7ff13c
+0xeae23c8150b8
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 226	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c81850c
+0xeae23c8150fc
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 261	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6fdd44
+0xeae23c75b238
+0xeae23c815110
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 278	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6adb14
+0xeae23c815110
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 215	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c81854c
+0xeae23c81513c
+0xeae23c8122cc
+0xeae23c81364c
+0xeae23c817654
+
+
++------------------------------------------------------------+
+| Invoked syscall: 214	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6fe3d8
+0xeae23c703ea8
+0xeae23c6ab000
+0xeae23c6ac00c
+0xeae23c6aca10
+0xeae23c6acd84
+runtime/cgo(.text)
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 214	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6fe3d8
+0xeae23c703e58
+0xeae23c6ab000
+0xeae23c6abdb4
+0xeae23c6aca10
+0xeae23c6acd84
+runtime/cgo(.text)
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c7023cc
+0xeae23c6aca10
+0xeae23c6acd84
+runtime/cgo(.text)
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 56	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6fcd60
+0xeae23c692500
+0xeae23c6925e0
+0xeae23c684a00
+0xeae23c69d6f0
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 261	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6fdd44
+0xeae23c69d704
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 80	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6f7df8
+0xeae23c683c1c
+0xeae23c6951e0
+0xeae23c692dd0
+0xeae23c685ba8
+0xeae23c69d7f0
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 63	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6fcf98
+0xeae23c692d24
+0xeae23c685ba8
+0xeae23c69d7f0
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 63	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6fcf98
+0xeae23c692d24
+0xeae23c685abc
+0xeae23c69d7f0
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 57	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6fc9f8
+0xeae23c692234
+0xeae23c683ef8
+0xeae23c69d724
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 123	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69d400
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 123	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sched_getaffinity.abi0
+runtime.osinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 56	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.open.abi0
+runtime.osinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 63	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.read.abi0
+runtime.osinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 57	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.closefd.abi0
+runtime.osinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*addrRanges).init
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*addrRanges).init
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysReserveOS
+runtime.(*scavengeIndex).sysInit
+runtime.(*scavengeIndex).init
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysReserveOS
+runtime.(*scavengeIndex).sysInit
+runtime.(*scavengeIndex).init
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysReserveOS
+runtime.(*mheap).sysAlloc
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysReserveOS
+runtime.(*mheap).sysAlloc
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysAllocOS
+runtime.(*mheap).sysAlloc
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.(*mheap).sysAlloc
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.madvise.abi0
+runtime.(*mheap).sysAlloc
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*mheap).sysAlloc
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*mheap).sysAlloc
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*scavengeIndex).sysGrow
+runtime.(*scavengeIndex).grow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*scavengeIndex).sysGrow
+runtime.(*scavengeIndex).grow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.madvise.abi0
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.recordspan
+runtime.(*fixalloc).alloc
+runtime.(*mheap).allocMSpanLocked
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.recordspan
+runtime.(*fixalloc).alloc
+runtime.(*mheap).allocMSpanLocked
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.newArenaMayUnlock
+runtime.newMarkBits
+runtime.(*mheap).initSpan
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.newArenaMayUnlock
+runtime.newMarkBits
+runtime.(*mheap).initSpan
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.checkfds
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.checkfds
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.checkfds
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.stkbucket
+runtime.mProf_Malloc
+runtime.profilealloc
+runtime.mallocgcSmallNoscan
+runtime.mallocgc
+runtime.makeslice
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.stkbucket
+runtime.mProf_Malloc
+runtime.profilealloc
+runtime.mallocgcSmallNoscan
+runtime.mallocgc
+runtime.makeslice
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 56	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.FindCPUCgroup
+internal/runtime/cgroup.FindCPU
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 63	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.(*lineReader).next
+internal/runtime/cgroup.parseCPUCgroup
+internal/runtime/cgroup.FindCPUCgroup
+internal/runtime/cgroup.FindCPU
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 63	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.(*lineReader).next
+internal/runtime/cgroup.parseCPUCgroup
+internal/runtime/cgroup.FindCPUCgroup
+internal/runtime/cgroup.FindCPU
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 57	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.FindCPU
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 56	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.FindCPUMountPoint
+internal/runtime/cgroup.FindCPU
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 63	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.(*lineReader).next
+internal/runtime/cgroup.parseCPUMount
+internal/runtime/cgroup.FindCPUMountPoint
+internal/runtime/cgroup.FindCPU
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 57	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.FindCPU
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 56	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 67	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.readV2Limit
+internal/runtime/cgroup.ReadCPULimit
+runtime.adjustCgroupGOMAXPROCS
+runtime.defaultGOMAXPROCS
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignalStack
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.gettid.abi0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c649bf4
+0xeae23c648730
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+0xeae23c64873c
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c649c40
+0xeae23c648748
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c649bf4
+0xeae23c648730
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+0xeae23c64873c
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c649c40
+0xeae23c648748
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+runtime/cgo(.text)
+runtime.callCgoSigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*spanSet).push
+runtime.(*mcentral).uncacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallNoscan
+runtime.mallocgc
+runtime.makeslice
+runtime.mcommoninit
+runtime.allocm
+runtime.newm
+runtime.main.func1
+runtime.systemstack.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*spanSet).push
+runtime.(*mcentral).uncacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallNoscan
+runtime.mallocgc
+runtime.makeslice
+runtime.mcommoninit
+runtime.allocm
+runtime.newm
+runtime.main.func1
+runtime.systemstack.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6a4610
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a258
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c648854
+0xeae23c69cac8
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a258
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69caec
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a258
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+0xeae23c69cce0
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a258
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c7023cc
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a258
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c928
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a258
+
+
++------------------------------------------------------------+
+| Invoked syscall: 435	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c706af4
+0xeae23c7069c8
+0xeae23c69bd98
+0xeae23c69c964
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a258
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c980
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a258
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6a4610
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a258
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6a4610
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a1d8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+0xeae23c69cce0
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a1d8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c7023cc
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a1d8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c928
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a1d8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 435	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c706af4
+0xeae23c7069c8
+0xeae23c69bd98
+0xeae23c69c964
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a1d8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c980
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a1d8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6a4610
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a1d8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6a4610
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a0f8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+0xeae23c69cce0
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a0f8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c7023cc
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a0f8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c928
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a0f8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 435	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c706af4
+0xeae23c7069c8
+0xeae23c69bd98
+0xeae23c69c964
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a0f8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c980
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a0f8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6a4610
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a0f8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notesleep
+runtime.stoplockedm
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 293	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c310
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 99	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69bff4
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 293	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c310
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c054
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 99	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69bff4
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+0xeae23c6aa6e8
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c054
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+0xeae23c6aa6e8
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 215	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c70310c
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 215	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c70310c
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 226	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c70300c
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 226	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c70300c
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c7023cc
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c7023cc
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 293	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c310
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 99	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69bff4
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c054
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+0xeae23c6aa5ec
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignalStack
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.gettid.abi0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 101	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.usleep.abi0
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 226	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c70300c
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c7023cc
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 123	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sched_getaffinity.abi0
+runtime.defaultGOMAXPROCS
+runtime.sysmonUpdateGOMAXPROCS
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 67	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.readV2Limit
+internal/runtime/cgroup.ReadCPULimit
+runtime.adjustCgroupGOMAXPROCS
+runtime.defaultGOMAXPROCS
+runtime.sysmonUpdateGOMAXPROCS
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 101	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.usleep.abi0
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignalStack
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.gettid.abi0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignalStack
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.gettid.abi0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+runtime/cgo(.text)
+runtime.callCgoMmap.abi0
+runtime.mmap.func1
+runtime.mmap
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*fixalloc).alloc
+runtime.(*mheap).allocMSpanLocked
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanHeader
+runtime.mallocgc
+runtime.newobject
+runtime.allocm
+runtime.newm
+runtime.startm
+runtime.wakep
+runtime.resetspinning
+runtime.schedule
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*fixalloc).alloc
+runtime.(*mheap).allocMSpanLocked
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanHeader
+runtime.mallocgc
+runtime.newobject
+runtime.allocm
+runtime.newm
+runtime.startm
+runtime.wakep
+runtime.resetspinning
+runtime.schedule
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notewakeup
+runtime.startlockedm
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 124	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.osyield.abi0
+runtime.stopm
+runtime.startlockedm
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6a4610
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xeae1f518e6a8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+0xeae23c69cce0
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xeae1f518e6a8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c7023cc
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xeae1f518e6a8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c928
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xeae1f518e6a8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 435	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c706af4
+0xeae23c7069c8
+0xeae23c69bd98
+0xeae23c69c964
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xeae1f518e6a8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6a4610
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a0f8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c980
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xeae1f518e6a8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6a4610
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xeae1f518e6a8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notewakeup
+runtime.startlockedm
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notesleep
+runtime.stopm
+runtime.startlockedm
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 293	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c310
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 99	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69bff4
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c054
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+0xeae23c6aa6e8
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 215	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c70310c
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 226	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c70300c
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c7023cc
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+0xeae23c69cce0
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a0f8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c7023cc
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a0f8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c928
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a0f8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 435	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c706af4
+0xeae23c7069c8
+0xeae23c69bd98
+0xeae23c69c964
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a0f8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignalStack
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.gettid.abi0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notesleep
+runtime.stopm
+runtime.findRunnable
+runtime.schedule
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c980
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a0f8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6a4610
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+runtime.newm1
+0xffffd6e9a0f8
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notewakeup
+runtime.startm
+runtime.wakep
+runtime.newproc.func1
+runtime.systemstack.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notesleep
+runtime.stopm
+runtime.startlockedm
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6a4610
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+0xeae23c69cce0
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c7023cc
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c928
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 435	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c706af4
+0xeae23c7069c8
+0xeae23c69bd98
+0xeae23c69c964
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c980
+runtime/cgo(.text)
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c6a4610
+runtime/cgo(.text)
+runtime.asmcgocall.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 293	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c310
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 99	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69bff4
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c054
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+0xeae23c6aa5ec
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 226	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c70300c
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c7023cc
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 261	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.prlimit1
+syscall.init.0
+runtime.doInit1
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 261	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.prlimit1
+syscall.init.0
+runtime.doInit1
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/syscall/unix.Fcntl
+os.newFileFromNewFile
+os.init
+runtime.doInit1
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/syscall/unix.Fcntl
+os.newFileFromNewFile
+os.init
+runtime.doInit1
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/syscall/unix.Fcntl
+os.newFileFromNewFile
+os.init
+runtime.doInit1
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 64	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.write
+internal/poll.(*FD).Write
+os.(*File).Write
+fmt.Fprintln
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignalStack
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.gettid.abi0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notesleep
+runtime.stopm
+runtime.findRunnable
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notesleep
+runtime.stopm
+runtime.findRunnable
+runtime.schedule
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 56	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 8926):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall6
+syscall.openat
+os.open
+os.openFileNolog
+os.OpenFile
+os.ReadFile
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 14823):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.fcntl
+syscall.SetNonblock
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.ReadFile
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 4260):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.fcntl
+syscall.SetNonblock
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.ReadFile
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 20	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_WRITE_FILE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 15743):
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.netpollGenericInit
+internal/poll.runtime_pollServerInit
+sync.(*Once).doSlow
+internal/poll.(*pollDesc).init
+internal/poll.(*FD).Init
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.ReadFile
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 19	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_FILE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 15743):
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.netpollGenericInit
+internal/poll.runtime_pollServerInit
+sync.(*Once).doSlow
+internal/poll.(*pollDesc).init
+internal/poll.(*FD).Init
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.ReadFile
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 21	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_FILE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 15743):
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.netpollGenericInit
+internal/poll.runtime_pollServerInit
+sync.(*Once).doSlow
+internal/poll.(*pollDesc).init
+internal/poll.(*FD).Init
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.ReadFile
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 21	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_FILE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 11320):
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/poll.runtime_pollOpen
+internal/poll.(*pollDesc).init
+internal/poll.(*FD).Init
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.ReadFile
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 14090):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.fcntl
+syscall.SetNonblock
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.ReadFile
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 16134):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.fcntl
+syscall.SetNonblock
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.ReadFile
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 80	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 8127):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.Fstat
+internal/poll.(*FD).Fstat
+os.(*File).Stat
+os.statOrZero
+os.ReadFile
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 63	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 13827):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.read
+internal/poll.(*FD).Read
+os.(*File).Read
+os.(*File).Read-fm
+os.readFileContents
+os.ReadFile
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 293	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c310
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 99	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69bff4
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c69c054
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c702708
+0xeae23c6aa6e8
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 215	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c70310c
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 226	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c70300c
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+0xeae23c7023cc
+0xeae23c6aa7fc
+0xeae23c6aab70
+0xeae23c6acd30
+0xeae23c6acfd0
+0xeae23c6aea7c
+runtime/cgo(.text)
+0xeae23c69c288
+0xeae23c706b1c
+
+
++------------------------------------------------------------+
+| Invoked syscall: 101	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.usleep.abi0
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignalStack
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.gettid.abi0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notesleep
+runtime.templateThread
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 101	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.usleep.abi0
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 63	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 13827):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.read
+internal/poll.(*FD).Read
+os.(*File).Read
+os.(*File).Read-fm
+os.readFileContents
+os.ReadFile
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 57	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 4194):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.Close
+internal/poll.(*FD).destroy
+internal/poll.(*FD).decref
+internal/poll.(*FD).Close
+os.(*file).close
+os.ReadFile.deferwrap1
+os.ReadFile
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 64	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 3058):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.write
+internal/poll.(*FD).Write
+os.(*File).Write
+fmt.Fprintf
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 64	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 2786):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.write
+internal/poll.(*FD).Write
+os.(*File).Write
+fmt.Fprintln
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 4751):
+runtime.futex.abi0
+runtime.notewakeup
+runtime.startm
+runtime.wakep
+runtime.wakeNetPoller
+runtime.(*timer).maybeAdd
+runtime.(*timer).modify
+time.newTimer
+time.AfterFunc
+context.WithDeadlineCause
+net.(*Dialer).dialCtx
+net.(*Dialer).DialContext
+net.DialTimeout
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 198	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 7114):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.RawSyscall
+syscall.socket
+syscall.Socket
+net.sysSocket
+net.socket
+net.internetSocket
+net.(*sysDialer).doDialTCPProto
+net.(*sysDialer).dialTCP
+net.(*sysDialer).dialSingle
+net.(*sysDialer).dialSerial
+net.(*sysDialer).dialParallel
+net.(*Dialer).DialContext
+net.DialTimeout
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 101	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.usleep.abi0
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 203	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 8200):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.connect
+syscall.Connect
+net.(*netFD).connect
+net.(*netFD).dial
+net.socket
+net.internetSocket
+net.(*sysDialer).doDialTCPProto
+net.(*sysDialer).dialTCP
+net.(*sysDialer).dialSingle
+net.(*sysDialer).dialSerial
+net.(*sysDialer).dialParallel
+net.(*Dialer).DialContext
+net.DialTimeout
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 22	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.netpoll
+runtime.findRunnable
+runtime.schedule
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 21	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_FILE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 15034):
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/poll.runtime_pollOpen
+internal/poll.(*pollDesc).init
+internal/poll.(*FD).Init
+net.(*netFD).connect
+net.(*netFD).dial
+net.socket
+net.internetSocket
+net.(*sysDialer).doDialTCPProto
+net.(*sysDialer).dialTCP
+net.(*sysDialer).dialSingle
+net.(*sysDialer).dialSerial
+net.(*sysDialer).dialParallel
+net.(*Dialer).DialContext
+net.DialTimeout
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 64	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 8573):
+runtime.write1.abi0
+runtime.netpollBreak
+runtime.wakeNetPoller
+runtime.(*timer).maybeAdd
+runtime.(*timer).modify
+internal/poll.runtime_pollSetDeadline
+internal/poll.setDeadlineImpl
+net.(*netFD).connect
+net.(*netFD).dial
+net.socket
+net.internetSocket
+net.(*sysDialer).doDialTCPProto
+net.(*sysDialer).dialTCP
+net.(*sysDialer).dialSingle
+net.(*sysDialer).dialSerial
+net.(*sysDialer).dialParallel
+net.(*Dialer).DialContext
+net.DialTimeout
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notesleep
+runtime.stopm
+runtime.findRunnable
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 63	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.read.abi0
+runtime.findRunnable
+runtime.schedule
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 209	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_DIRECT_IO
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 2151):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall6
+syscall.getsockopt
+syscall.GetsockoptInt
+net.(*netFD).connect
+net.(*netFD).dial
+net.socket
+net.internetSocket
+net.(*sysDialer).doDialTCPProto
+net.(*sysDialer).dialTCP
+net.(*sysDialer).dialSingle
+net.(*sysDialer).dialSerial
+net.(*sysDialer).dialParallel
+net.(*Dialer).DialContext
+net.DialTimeout
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 21	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_READ_FILE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 10639):
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/poll.runtime_pollClose
+internal/poll.(*FD).destroy
+internal/poll.(*FD).decref
+internal/poll.(*FD).Close
+net.(*netFD).Close
+net.socket
+net.internetSocket
+net.(*sysDialer).doDialTCPProto
+net.(*sysDialer).dialTCP
+net.(*sysDialer).dialSingle
+net.(*sysDialer).dialSerial
+net.(*sysDialer).dialParallel
+net.(*Dialer).DialContext
+net.DialTimeout
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 57	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 11750):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.Close
+internal/poll.(*FD).destroy
+internal/poll.(*FD).decref
+internal/poll.(*FD).Close
+net.(*netFD).Close
+net.socket
+net.internetSocket
+net.(*sysDialer).doDialTCPProto
+net.(*sysDialer).dialTCP
+net.(*sysDialer).dialSingle
+net.(*sysDialer).dialSerial
+net.(*sysDialer).dialParallel
+net.(*Dialer).DialContext
+net.DialTimeout
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 101	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.usleep.abi0
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 64	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc3surrogate/runtimebehavior
+Caller Function: Run
+Stack Trace (ID 11884):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.write
+internal/poll.(*FD).Write
+os.(*File).Write
+fmt.Fprintln
+github.com/sc3surrogate/runtimebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 94	PID: 7434	Command: sc3surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.exit.abi0
+runtime.goexit.abi0
+

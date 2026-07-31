@@ -1,0 +1,27 @@
+SC3 Result
+
+Ground-truth stages:
+1. Install
+2. File Collection
+3. Archive Creation
+4. Outbound Connection
+5. Exfiltration
+
+Foreman:
+- Archive Creation
+Coverage: 1/5 = 20%
+
+GoLeash:
+- File Collection
+- Outbound Connection
+Coverage: 2/5 = 40%
+
+SCFusion:
+- File Collection
+- Archive Creation
+- Outbound Connection
+Coverage: 3/5 = 60%
+
+Missing:
+- Install
+- Exfiltration

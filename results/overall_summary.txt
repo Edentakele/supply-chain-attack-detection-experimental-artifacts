@@ -1,0 +1,16 @@
+Overall Results
+
+Foreman average coverage: 37.3%
+GoLeash average coverage: 33.0%
+SCFusion average coverage: 63.4%
+
+SCFusion improved over the strongest individual detector:
+- SC1
+- SC2
+- SC3
+- SC5
+- SC7
+
+SCFusion matched the strongest individual detector:
+- SC4
+- SC6

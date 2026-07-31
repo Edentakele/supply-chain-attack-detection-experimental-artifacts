@@ -1,0 +1,4 @@
+warning: install modified and changed /Users/eden/Desktop/verified_experiments/sc2_foreman_surrogate/startup
+warning: install modified and changed /Users/eden/Desktop/verified_experiments/sc2_foreman_surrogate/outputs
+warning: install created /Users/eden/Desktop/verified_experiments/sc2_foreman_surrogate/startup/sc2_autostart.conf
+warning: install created /Users/eden/Desktop/verified_experiments/sc2_foreman_surrogate/outputs/installed_payload.txt

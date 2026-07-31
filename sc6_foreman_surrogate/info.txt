@@ -1,0 +1,7 @@
+build accessed /Users/eden/Desktop/verified_experiments/sc6_foreman_surrogate/source
+build accessed /Users/eden/Desktop/verified_experiments/sc6_foreman_surrogate/logs
+build modified and changed /Users/eden/Desktop/verified_experiments/sc6_foreman_surrogate/artifact
+build accessed /Users/eden/Desktop/verified_experiments/sc6_foreman_surrogate/package
+build accessed, modified, and changed /Users/eden/Desktop/verified_experiments/sc6_foreman_surrogate/source/build_config.py
+build modified and changed /Users/eden/Desktop/verified_experiments/sc6_foreman_surrogate/logs/sc6_foreman_console.txt
+build created /Users/eden/Desktop/verified_experiments/sc6_foreman_surrogate/artifact/build_artifact.zip

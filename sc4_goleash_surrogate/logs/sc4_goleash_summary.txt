@@ -1,0 +1,18 @@
+SC4 GoLeash result
+
+Ground-truth stages:
+1. Install
+2. Download
+3. Outbound Connection
+4. Exfiltration
+
+Detected stage:
+- Exfiltration
+
+Evidence:
+- GoLeash attributed os.WriteFile activity to github.com/sc4surrogate/cachebehavior.
+- The traced caller function was cachebehavior.Run.
+- System information was written to the designated local exfil output.
+- The generated tracestore contains a non-empty dependency entry.
+
+Coverage: 1/4 = 25%

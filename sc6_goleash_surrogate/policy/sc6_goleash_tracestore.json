@@ -1,0 +1,55 @@
+{
+  "github.com/sc6surrogate/artifactbehavior": {
+    "type": "dep",
+    "path": "github.com/sc6surrogate/artifactbehavior",
+    "syscalls": [
+      19,
+      20,
+      21,
+      25,
+      56,
+      57,
+      64,
+      79
+    ],
+    "capabilities": [
+      "CAP_EXEC",
+      "CAP_MEMORY_MANIPULATION",
+      "CAP_READ_FILE",
+      "CAP_READ_SYSTEM_STATE",
+      "CAP_WRITE_FILE"
+    ],
+    "executed_binaries": [],
+    "syscalls_paths": {
+      "19": [
+        1264
+      ],
+      "20": [
+        1264
+      ],
+      "21": [
+        1264,
+        3905
+      ],
+      "25": [
+        16010,
+        10975,
+        6346,
+        4667
+      ],
+      "56": [
+        12211
+      ],
+      "57": [
+        15793
+      ],
+      "64": [
+        15506,
+        6532
+      ],
+      "79": [
+        8760
+      ]
+    }
+  }
+}

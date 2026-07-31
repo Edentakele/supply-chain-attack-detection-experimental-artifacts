@@ -1,0 +1,16 @@
+from pathlib import Path
+import socket
+
+# Observable evidence uniquely produced by payload execution
+Path("outputs/payload_execution.marker").write_text(
+    "Benign embedded payload executed.\n"
+)
+
+print("[payload] Benign payload executed")
+print("[payload] Attempting harmless localhost connection")
+
+try:
+    with socket.create_connection(("127.0.0.1", 9999), timeout=1):
+        pass
+except OSError as error:
+    print("[payload] Localhost connection unavailable:", error)

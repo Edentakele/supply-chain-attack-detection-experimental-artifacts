@@ -1,0 +1,8 @@
+===== ENVIRONMENT =====
+Fri Jul 31 08:02:52 PM CEST 2026
+Linux edenubuntu 7.0.0-28-generic #28-Ubuntu SMP PREEMPT_DYNAMIC Sun Jun 21 00:50:10 UTC 2026 aarch64 GNU/Linux
+go version go1.26.0 linux/arm64
+
+===== CHECKSUMS =====
+d401d723d69de1b5ac1c73d248aa543dc03ad0b7b0d5b40a34e4681d23291d64  /home/eden/verified_experiments/sc7_goleash_surrogate/app/sc7surrogate
+edb5d5c7f8b5976cb36f1e6e4b7cbde278195a0f690991fe6f3ca011d75f9f56  /home/eden/verified_experiments/sc7_goleash_surrogate/policy/sc7_goleash_tracestore.json

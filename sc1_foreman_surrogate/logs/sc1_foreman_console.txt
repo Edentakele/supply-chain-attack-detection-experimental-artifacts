@@ -1,0 +1,7 @@
+[install] Starting benign package installation
+[install] Payload artifact accessed
+[install] Executing benign embedded payload
+[payload] Benign payload executed
+[payload] Attempting harmless localhost connection
+[payload] Localhost connection unavailable: [Errno 61] Connection refused
+[install] Installation finished

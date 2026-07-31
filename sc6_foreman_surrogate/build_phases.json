@@ -1,0 +1,14 @@
+[
+  {
+    "name": "build",
+    "commands": [["python3", "package/setup.py"]],
+    "permissions": {
+      "file": {
+        "restricted": [
+          "source/",
+          "artifact/"
+        ]
+      }
+    }
+  }
+]

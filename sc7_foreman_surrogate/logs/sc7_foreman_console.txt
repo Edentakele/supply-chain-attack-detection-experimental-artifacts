@@ -1,0 +1,3 @@
+[install] Starting SC7 package installation
+[install] Model payload deployed
+[install] Installation finished

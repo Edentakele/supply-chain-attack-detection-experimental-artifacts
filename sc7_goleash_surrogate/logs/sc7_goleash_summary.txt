@@ -1,0 +1,17 @@
+SC7 GoLeash result
+
+Ground-truth stages:
+1. Download
+2. Outbound Connection
+3. Exfiltration
+
+Detected stage:
+- Outbound Connection
+
+Evidence:
+- GoLeash attributed network activity to github.com/sc7surrogate/runtimebehavior.
+- The traced caller function was runtimebehavior.Run.
+- The captured stack trace included net.DialTimeout and netFD.connect.
+- The connection was restricted to 127.0.0.1.
+
+Coverage: 1/3 = 33.3%

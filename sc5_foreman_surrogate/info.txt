@@ -1,0 +1,6 @@
+install modified and changed /Users/eden/Desktop/verified_experiments/sc5_foreman_surrogate/payload
+install accessed /Users/eden/Desktop/verified_experiments/sc5_foreman_surrogate/logs
+install accessed /Users/eden/Desktop/verified_experiments/sc5_foreman_surrogate/package
+install created /Users/eden/Desktop/verified_experiments/sc5_foreman_surrogate/payload/payload.bin
+install modified and changed /Users/eden/Desktop/verified_experiments/sc5_foreman_surrogate/logs/sc5_foreman_console.txt
+install accessed /Users/eden/Desktop/verified_experiments/sc5_foreman_surrogate/package/resources

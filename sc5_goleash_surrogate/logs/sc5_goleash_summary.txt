@@ -1,0 +1,20 @@
+SC5 GoLeash result
+
+Ground-truth stages:
+1. Install
+2. Download
+3. Outbound Connection
+4. Exfiltration
+
+Detected stages:
+- Outbound Connection
+- Exfiltration
+
+Evidence:
+- GoLeash attributed net.DialTimeout and network connection activity to github.com/sc5surrogate/runtimebehavior.
+- The traced caller function was runtimebehavior.Run.
+- GoLeash captured netFD.Write activity during the local data transfer.
+- The generated tracestore includes CAP_SEND_DATA.
+- All communication was restricted to 127.0.0.1.
+
+Coverage: 2/4 = 50%

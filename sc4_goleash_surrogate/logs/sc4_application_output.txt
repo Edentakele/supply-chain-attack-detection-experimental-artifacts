@@ -1,0 +1,2 @@
+SC4 GoLeash Surrogate
+[runtime] Benign information written to local output

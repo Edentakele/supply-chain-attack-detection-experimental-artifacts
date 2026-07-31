@@ -1,0 +1,4086 @@
+Loading binary symbols from: /home/eden/verified_experiments/sc4_goleash_surrogate/app/sc4surrogate
+Successfully cached 2551 symbols for binary: sc4surrogate
+
+19:02:58 
+Tracking syscalls
+19:02:58 List of binaries being tracked...
+/home/eden/verified_experiments/sc4_goleash_surrogate/app/sc4surrogate
+
++------------------------------------------------------------+
+| Invoked syscall: 123	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sched_getaffinity.abi0
+runtime.osinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 56	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.open.abi0
+runtime.osinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 63	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.read.abi0
+runtime.osinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 57	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.closefd.abi0
+runtime.osinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*addrRanges).init
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*addrRanges).init
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysReserveOS
+runtime.(*pageAlloc).sysInit
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysReserveOS
+runtime.(*scavengeIndex).sysInit
+runtime.(*scavengeIndex).init
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysReserveOS
+runtime.(*scavengeIndex).sysInit
+runtime.(*scavengeIndex).init
+runtime.(*pageAlloc).init
+runtime.(*mheap).init
+runtime.mallocinit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysReserveOS
+runtime.(*mheap).sysAlloc
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysReserveOS
+runtime.(*mheap).sysAlloc
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysAllocOS
+runtime.(*mheap).sysAlloc
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.(*mheap).sysAlloc
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.madvise.abi0
+runtime.(*mheap).sysAlloc
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*mheap).sysAlloc
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*mheap).sysAlloc
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*pageAlloc).sysGrow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*scavengeIndex).sysGrow
+runtime.(*scavengeIndex).grow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysMapOS
+runtime.sysMap
+runtime.(*scavengeIndex).sysGrow
+runtime.(*scavengeIndex).grow
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 233	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.madvise.abi0
+runtime.(*pageAlloc).grow
+runtime.(*mheap).grow
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.recordspan
+runtime.(*fixalloc).alloc
+runtime.(*mheap).allocMSpanLocked
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.recordspan
+runtime.(*fixalloc).alloc
+runtime.(*mheap).allocMSpanLocked
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.newArenaMayUnlock
+runtime.newMarkBits
+runtime.(*mheap).initSpan
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.newArenaMayUnlock
+runtime.newMarkBits
+runtime.(*mheap).initSpan
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanNoHeader
+runtime.mallocgc
+runtime.newobject
+internal/cpu.doinit
+internal/cpu.Initialize
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.checkfds
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.checkfds
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.checkfds
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.stkbucket
+runtime.mProf_Malloc
+runtime.profilealloc
+runtime.mallocgcSmallNoscan
+runtime.mallocgc
+runtime.makeslice
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.stkbucket
+runtime.mProf_Malloc
+runtime.profilealloc
+runtime.mallocgcSmallNoscan
+runtime.mallocgc
+runtime.makeslice
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 56	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.FindCPUCgroup
+internal/runtime/cgroup.FindCPU
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 63	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.(*lineReader).next
+internal/runtime/cgroup.parseCPUCgroup
+internal/runtime/cgroup.FindCPUCgroup
+internal/runtime/cgroup.FindCPU
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 63	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.(*lineReader).next
+internal/runtime/cgroup.parseCPUCgroup
+internal/runtime/cgroup.FindCPUCgroup
+internal/runtime/cgroup.FindCPU
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 57	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.FindCPU
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 56	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.FindCPUMountPoint
+internal/runtime/cgroup.FindCPU
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 63	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.(*lineReader).next
+internal/runtime/cgroup.parseCPUMount
+internal/runtime/cgroup.FindCPUMountPoint
+internal/runtime/cgroup.FindCPU
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 57	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.FindCPU
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 56	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.OpenCPU
+runtime.defaultGOMAXPROCSInit
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 67	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.readV2Limit
+internal/runtime/cgroup.ReadCPULimit
+runtime.adjustCgroupGOMAXPROCS
+runtime.defaultGOMAXPROCS
+runtime.schedinit
+runtime.rt0_go.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignalStack
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.gettid.abi0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 134	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rt_sigaction.abi0
+runtime.sigaction
+runtime.setsig
+runtime.initsig
+runtime.mstartm0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.newm1
+runtime.newm
+runtime.main.func1
+runtime.systemstack.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 220	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.clone.abi0
+runtime.retryOnEAGAIN
+runtime.newosproc
+runtime.newm1
+runtime.newm
+runtime.main.func1
+runtime.systemstack.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.clone.abi0
+runtime.retryOnEAGAIN
+runtime.newosproc
+runtime.newm1
+runtime.newm
+runtime.main.func1
+runtime.systemstack.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignalStack
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.gettid.abi0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 101	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.usleep.abi0
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.newm1
+runtime.newm
+runtime.main.func1
+runtime.systemstack.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*spanSet).push
+runtime.(*mcentral).uncacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallNoscan
+runtime.mallocgc
+runtime.makeslice
+runtime.mcommoninit
+runtime.allocm
+runtime.newm
+runtime.startm
+runtime.wakep
+runtime.newproc.func1
+runtime.systemstack.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*spanSet).push
+runtime.(*mcentral).uncacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallNoscan
+runtime.mallocgc
+runtime.makeslice
+runtime.mcommoninit
+runtime.allocm
+runtime.newm
+runtime.startm
+runtime.wakep
+runtime.newproc.func1
+runtime.systemstack.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.newm1
+runtime.newm
+runtime.startm
+runtime.wakep
+runtime.newproc.func1
+runtime.systemstack.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 220	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.clone.abi0
+runtime.retryOnEAGAIN
+runtime.newosproc
+runtime.newm1
+runtime.newm
+runtime.startm
+runtime.wakep
+runtime.newproc.func1
+runtime.systemstack.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.newm1
+runtime.newm
+runtime.startm
+runtime.wakep
+runtime.newproc.func1
+runtime.systemstack.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 123	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sched_getaffinity.abi0
+runtime.defaultGOMAXPROCS
+runtime.sysmonUpdateGOMAXPROCS
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 67	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/runtime/cgroup.readV2Limit
+internal/runtime/cgroup.ReadCPULimit
+runtime.adjustCgroupGOMAXPROCS
+runtime.defaultGOMAXPROCS
+runtime.sysmonUpdateGOMAXPROCS
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 101	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.usleep.abi0
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.newm1
+runtime.newm
+runtime.startm
+runtime.handoffp
+runtime.stoplockedm
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 220	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.clone.abi0
+runtime.retryOnEAGAIN
+runtime.newosproc
+runtime.newm1
+runtime.newm
+runtime.startm
+runtime.handoffp
+runtime.stoplockedm
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.newm1
+runtime.newm
+runtime.startm
+runtime.handoffp
+runtime.stoplockedm
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notesleep
+runtime.stoplockedm
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.clone.abi0
+runtime.newm
+runtime.startm
+0x80
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignalStack
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.gettid.abi0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 222	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sysMmap.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*fixalloc).alloc
+runtime.(*mheap).allocMSpanLocked
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanHeader
+runtime.mallocgc
+runtime.newobject
+runtime.allocm
+runtime.newm
+runtime.startm
+runtime.wakep
+runtime.resetspinning
+runtime.schedule
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 167	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.sysAllocOS
+runtime.sysAlloc
+runtime.persistentalloc1
+runtime.persistentalloc.func1
+runtime.persistentalloc
+runtime.(*fixalloc).alloc
+runtime.(*mheap).allocMSpanLocked
+runtime.(*mheap).allocSpan
+runtime.(*mheap).alloc.func1
+runtime.(*mheap).alloc
+runtime.(*mcentral).grow
+runtime.(*mcentral).cacheSpan
+runtime.(*mcache).refill
+runtime.(*mcache).nextFree
+runtime.mallocgcSmallScanHeader
+runtime.mallocgc
+runtime.newobject
+runtime.allocm
+runtime.newm
+runtime.startm
+runtime.wakep
+runtime.resetspinning
+runtime.schedule
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.newm1
+runtime.newm
+runtime.startm
+runtime.wakep
+runtime.resetspinning
+runtime.schedule
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 220	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.clone.abi0
+runtime.retryOnEAGAIN
+runtime.newosproc
+runtime.newm1
+runtime.newm
+runtime.startm
+runtime.wakep
+runtime.resetspinning
+runtime.schedule
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.newm1
+runtime.newm
+runtime.startm
+runtime.wakep
+runtime.resetspinning
+runtime.schedule
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notewakeup
+runtime.startlockedm
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notesleep
+runtime.stopm
+runtime.startlockedm
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.clone.abi0
+runtime.retryOnEAGAIN
+runtime.newosproc
+runtime.newm1
+runtime.newm
+runtime.startm
+0x80
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignalStack
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.gettid.abi0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notesleep
+runtime.stopm
+runtime.findRunnable
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.clone.abi0
+runtime.retryOnEAGAIN
+runtime.newosproc
+runtime.newm1
+
+
++------------------------------------------------------------+
+| Invoked syscall: 101	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.usleep.abi0
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 261	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.prlimit1
+syscall.init.0
+runtime.doInit1
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 261	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.prlimit1
+syscall.init.0
+runtime.doInit1
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/syscall/unix.Fcntl
+os.newFileFromNewFile
+os.init
+runtime.doInit1
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 132	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.sigaltstack.abi0
+runtime.minitSignalStack
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 135	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.rtsigprocmask.abi0
+runtime.minitSignals
+runtime.minit
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 178	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MODIFY_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.gettid.abi0
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 101	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.usleep.abi0
+runtime.runqgrab
+runtime.runqsteal
+runtime.stealWork
+runtime.findRunnable
+runtime.schedule
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/syscall/unix.Fcntl
+os.newFileFromNewFile
+os.init
+runtime.doInit1
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/syscall/unix.Fcntl
+os.newFileFromNewFile
+os.init
+runtime.doInit1
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 101	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.usleep.abi0
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 64	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.write
+internal/poll.(*FD).Write
+os.(*File).Write
+fmt.Fprintln
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 79	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc4surrogate/cachebehavior
+Caller Function: Run
+Stack Trace (ID 11952):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall6
+syscall.fstatat
+os.statNolog
+os.Stat
+os.MkdirAll
+github.com/sc4surrogate/cachebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 56	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc4surrogate/cachebehavior
+Caller Function: Run
+Stack Trace (ID 10835):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall6
+syscall.openat
+os.open
+os.openFileNolog
+os.OpenFile
+os.WriteFile
+github.com/sc4surrogate/cachebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notewakeup
+runtime.startm
+runtime.wakep
+runtime.resetspinning
+runtime.schedule
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notesleep
+runtime.stopm
+runtime.findRunnable
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 98	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_SYSTEM_STATE
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.futex.abi0
+runtime.notesleep
+runtime.stopm
+runtime.findRunnable
+runtime.schedule
+runtime.park_m
+runtime.mcall
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc4surrogate/cachebehavior
+Caller Function: Run
+Stack Trace (ID 7029):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.fcntl
+syscall.SetNonblock
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.WriteFile
+github.com/sc4surrogate/cachebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc4surrogate/cachebehavior
+Caller Function: Run
+Stack Trace (ID 1507):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.fcntl
+syscall.SetNonblock
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.WriteFile
+github.com/sc4surrogate/cachebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 20	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_WRITE_FILE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc4surrogate/cachebehavior
+Caller Function: Run
+Stack Trace (ID 15527):
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.netpollGenericInit
+internal/poll.runtime_pollServerInit
+sync.(*Once).doSlow
+internal/poll.(*pollDesc).init
+internal/poll.(*FD).Init
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.WriteFile
+github.com/sc4surrogate/cachebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 19	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_FILE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc4surrogate/cachebehavior
+Caller Function: Run
+Stack Trace (ID 15527):
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.netpollGenericInit
+internal/poll.runtime_pollServerInit
+sync.(*Once).doSlow
+internal/poll.(*pollDesc).init
+internal/poll.(*FD).Init
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.WriteFile
+github.com/sc4surrogate/cachebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 21	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_FILE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc4surrogate/cachebehavior
+Caller Function: Run
+Stack Trace (ID 15527):
+internal/runtime/syscall/linux.Syscall6.abi0
+runtime.netpollGenericInit
+internal/poll.runtime_pollServerInit
+sync.(*Once).doSlow
+internal/poll.(*pollDesc).init
+internal/poll.(*FD).Init
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.WriteFile
+github.com/sc4surrogate/cachebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 21	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_READ_FILE
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc4surrogate/cachebehavior
+Caller Function: Run
+Stack Trace (ID 12431):
+internal/runtime/syscall/linux.Syscall6.abi0
+internal/poll.runtime_pollOpen
+internal/poll.(*pollDesc).init
+internal/poll.(*FD).Init
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.WriteFile
+github.com/sc4surrogate/cachebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc4surrogate/cachebehavior
+Caller Function: Run
+Stack Trace (ID 14927):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.fcntl
+syscall.SetNonblock
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.WriteFile
+github.com/sc4surrogate/cachebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 25	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc4surrogate/cachebehavior
+Caller Function: Run
+Stack Trace (ID 10470):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.fcntl
+syscall.SetNonblock
+os.newFile
+os.openFileNolog
+os.OpenFile
+os.WriteFile
+github.com/sc4surrogate/cachebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 64	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc4surrogate/cachebehavior
+Caller Function: Run
+Stack Trace (ID 11622):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.write
+internal/poll.(*FD).Write
+os.(*File).Write
+os.WriteFile
+github.com/sc4surrogate/cachebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 101	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.usleep.abi0
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 57	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_EXEC
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc4surrogate/cachebehavior
+Caller Function: Run
+Stack Trace (ID 15572):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.Close
+internal/poll.(*FD).destroy
+internal/poll.(*FD).decref
+internal/poll.(*FD).Close
+os.(*file).close
+os.WriteFile
+github.com/sc4surrogate/cachebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 101	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.usleep.abi0
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 101	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.usleep.abi0
+runtime.sysmon
+runtime.mstart1
+runtime.mstart0
+runtime.mstart.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 64	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_MEMORY_MANIPULATION
++------------------------------------------------------------+
+Event Type: GO_PKG
+Caller Package: github.com/sc4surrogate/cachebehavior
+Caller Function: Run
+Stack Trace (ID 7637):
+internal/runtime/syscall/linux.Syscall6.abi0
+syscall.Syscall
+syscall.write
+internal/poll.(*FD).Write
+os.(*File).Write
+fmt.Fprintln
+github.com/sc4surrogate/cachebehavior.Run
+main.main
+runtime.main
+runtime.goexit.abi0
+
+
++------------------------------------------------------------+
+| Invoked syscall: 94	PID: 8425	Command: sc4surrogate
+| Required capability: CAP_FILE_METADATA
++------------------------------------------------------------+
+Event Type: GO_RUNTIME
+runtime.exit.abi0
+runtime.goexit.abi0
+

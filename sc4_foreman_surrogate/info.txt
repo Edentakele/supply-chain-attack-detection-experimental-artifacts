@@ -1,0 +1,8 @@
+install modified and changed /Users/eden/Desktop/verified_experiments/sc4_foreman_surrogate/exfil
+install modified and changed /Users/eden/Desktop/verified_experiments/sc4_foreman_surrogate/cache
+install accessed /Users/eden/Desktop/verified_experiments/sc4_foreman_surrogate/logs
+install created /Users/eden/Desktop/verified_experiments/sc4_foreman_surrogate/payload.js
+install accessed /Users/eden/Desktop/verified_experiments/sc4_foreman_surrogate/package
+install created /Users/eden/Desktop/verified_experiments/sc4_foreman_surrogate/exfil/system_info.txt
+install created /Users/eden/Desktop/verified_experiments/sc4_foreman_surrogate/cache/audit-cache
+install modified and changed /Users/eden/Desktop/verified_experiments/sc4_foreman_surrogate/logs/sc4_foreman_console.txt

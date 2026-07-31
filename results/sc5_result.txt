@@ -1,0 +1,25 @@
+SC5 Result
+
+Ground-truth stages:
+1. Install
+2. Download
+3. Outbound Connection
+4. Exfiltration
+
+Foreman:
+- Download
+Coverage: 1/4 = 25%
+
+GoLeash:
+- Outbound Connection
+- Exfiltration
+Coverage: 2/4 = 50%
+
+SCFusion:
+- Download
+- Outbound Connection
+- Exfiltration
+Coverage: 3/4 = 75%
+
+Missing:
+- Install

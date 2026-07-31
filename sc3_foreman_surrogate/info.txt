@@ -1,0 +1,6 @@
+install modified and changed /Users/eden/Desktop/verified_experiments/sc3_foreman_surrogate/archive
+install accessed /Users/eden/Desktop/verified_experiments/sc3_foreman_surrogate/logs
+install accessed /Users/eden/Desktop/verified_experiments/sc3_foreman_surrogate/collected
+install accessed /Users/eden/Desktop/verified_experiments/sc3_foreman_surrogate/package
+install created /Users/eden/Desktop/verified_experiments/sc3_foreman_surrogate/archive/archive.zip
+install modified and changed /Users/eden/Desktop/verified_experiments/sc3_foreman_surrogate/logs/sc3_foreman_console.txt

@@ -1,0 +1,56 @@
+{
+  "github.com/sc2surrogate/runtimebehavior": {
+    "type": "dep",
+    "path": "github.com/sc2surrogate/runtimebehavior",
+    "syscalls": [
+      19,
+      20,
+      21,
+      57,
+      64,
+      198,
+      203,
+      209
+    ],
+    "capabilities": [
+      "CAP_DIRECT_IO",
+      "CAP_EXEC",
+      "CAP_FILE_METADATA",
+      "CAP_MEMORY_MANIPULATION",
+      "CAP_MODIFY_SYSTEM_STATE",
+      "CAP_READ_FILE",
+      "CAP_WRITE_FILE"
+    ],
+    "executed_binaries": [],
+    "syscalls_paths": {
+      "19": [
+        15494
+      ],
+      "198": [
+        15821
+      ],
+      "20": [
+        15494
+      ],
+      "203": [
+        7537
+      ],
+      "209": [
+        7751
+      ],
+      "21": [
+        15494,
+        7342,
+        15898
+      ],
+      "57": [
+        6793
+      ],
+      "64": [
+        2867,
+        2258,
+        9754
+      ]
+    }
+  }
+}

@@ -1,0 +1,4 @@
+SC2 GoLeash Surrogate
+[runtime] Installed payload executing
+[runtime] Attempting harmless localhost connection
+[runtime] Localhost connection unavailable: dial tcp 127.0.0.1:4444: connect: connection refused

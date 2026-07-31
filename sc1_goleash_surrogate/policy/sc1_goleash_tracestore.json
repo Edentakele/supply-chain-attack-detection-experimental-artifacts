@@ -1,0 +1,85 @@
+{
+  "github.com/sc1surrogate/embeddedpayload": {
+    "type": "dep",
+    "path": "github.com/sc1surrogate/embeddedpayload",
+    "syscalls": [
+      19,
+      20,
+      21,
+      25,
+      56,
+      57,
+      63,
+      64,
+      80,
+      98,
+      198,
+      203,
+      209
+    ],
+    "capabilities": [
+      "CAP_DIRECT_IO",
+      "CAP_EXEC",
+      "CAP_FILE_METADATA",
+      "CAP_MEMORY_MANIPULATION",
+      "CAP_MODIFY_SYSTEM_STATE",
+      "CAP_READ_FILE",
+      "CAP_READ_SYSTEM_STATE",
+      "CAP_WRITE_FILE"
+    ],
+    "executed_binaries": [],
+    "syscalls_paths": {
+      "19": [
+        10374
+      ],
+      "198": [
+        4489
+      ],
+      "20": [
+        10374
+      ],
+      "203": [
+        10389
+      ],
+      "209": [
+        14659
+      ],
+      "21": [
+        11614,
+        10374,
+        15146,
+        12829
+      ],
+      "25": [
+        2507,
+        10477,
+        775,
+        1193
+      ],
+      "56": [
+        11550
+      ],
+      "57": [
+        16193,
+        14245
+      ],
+      "63": [
+        5837
+      ],
+      "64": [
+        14363,
+        15733,
+        4652,
+        9918,
+        11973,
+        5339
+      ],
+      "80": [
+        1205
+      ],
+      "98": [
+        4235
+      ]
+    }
+  }
+}

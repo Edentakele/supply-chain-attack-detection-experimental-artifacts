@@ -1,0 +1,4 @@
+warning: build accessed /Users/eden/Desktop/verified_experiments/sc6_foreman_surrogate/source
+warning: build modified and changed /Users/eden/Desktop/verified_experiments/sc6_foreman_surrogate/artifact
+warning: build accessed, modified, and changed /Users/eden/Desktop/verified_experiments/sc6_foreman_surrogate/source/build_config.py
+warning: build created /Users/eden/Desktop/verified_experiments/sc6_foreman_surrogate/artifact/build_artifact.zip

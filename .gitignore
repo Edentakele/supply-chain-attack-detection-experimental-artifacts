@@ -1,0 +1,12 @@
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.pyc
+*.zip
+sc1_goleash_surrogate/app/sc1surrogate
+sc2_goleash_surrogate/app/sc2surrogate
+sc3_goleash_surrogate/app/sc3surrogate
+sc4_goleash_surrogate/app/sc4surrogate
+sc5_goleash_surrogate/app/sc5surrogate
+sc6_goleash_surrogate/app/sc6surrogate
+sc7_goleash_surrogate/app/sc7surrogate

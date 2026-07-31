@@ -1,0 +1,4 @@
+SC3 GoLeash Surrogate
+[runtime] Collected 30 bytes from benign input file
+[runtime] Attempting harmless localhost connection
+[runtime] Localhost connection unavailable: dial tcp 127.0.0.1:4444: connect: connection refused

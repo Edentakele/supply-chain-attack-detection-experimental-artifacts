@@ -1,0 +1,188 @@
+{
+  "SC1": {
+    "ground_truth": [
+      "install",
+      "outbound_connection",
+      "payload_access",
+      "payload_execution"
+    ],
+    "foreman": [
+      "install",
+      "payload_execution"
+    ],
+    "goleash": [
+      "outbound_connection"
+    ],
+    "scfusion": [
+      "install",
+      "outbound_connection",
+      "payload_execution"
+    ],
+    "missing": [
+      "payload_access"
+    ],
+    "foreman_coverage": 50.0,
+    "goleash_coverage": 25.0,
+    "scfusion_coverage": 75.0
+  },
+  "SC2": {
+    "ground_truth": [
+      "file_replacement",
+      "install",
+      "outbound_connection",
+      "payload_installation",
+      "persistence_setup",
+      "runtime_execution"
+    ],
+    "foreman": [
+      "payload_installation",
+      "persistence_setup"
+    ],
+    "goleash": [
+      "outbound_connection",
+      "runtime_execution"
+    ],
+    "scfusion": [
+      "outbound_connection",
+      "payload_installation",
+      "persistence_setup",
+      "runtime_execution"
+    ],
+    "missing": [
+      "file_replacement",
+      "install"
+    ],
+    "foreman_coverage": 33.33333333333333,
+    "goleash_coverage": 33.33333333333333,
+    "scfusion_coverage": 66.66666666666666
+  },
+  "SC3": {
+    "ground_truth": [
+      "archive_creation",
+      "exfiltration",
+      "file_collection",
+      "install",
+      "outbound_connection"
+    ],
+    "foreman": [
+      "archive_creation"
+    ],
+    "goleash": [
+      "file_collection",
+      "outbound_connection"
+    ],
+    "scfusion": [
+      "archive_creation",
+      "file_collection",
+      "outbound_connection"
+    ],
+    "missing": [
+      "exfiltration",
+      "install"
+    ],
+    "foreman_coverage": 20.0,
+    "goleash_coverage": 40.0,
+    "scfusion_coverage": 60.0
+  },
+  "SC4": {
+    "ground_truth": [
+      "download",
+      "exfiltration",
+      "install",
+      "outbound_connection"
+    ],
+    "foreman": [
+      "download",
+      "exfiltration"
+    ],
+    "goleash": [
+      "exfiltration"
+    ],
+    "scfusion": [
+      "download",
+      "exfiltration"
+    ],
+    "missing": [
+      "install",
+      "outbound_connection"
+    ],
+    "foreman_coverage": 50.0,
+    "goleash_coverage": 25.0,
+    "scfusion_coverage": 50.0
+  },
+  "SC5": {
+    "ground_truth": [
+      "download",
+      "exfiltration",
+      "install",
+      "outbound_connection"
+    ],
+    "foreman": [
+      "download"
+    ],
+    "goleash": [
+      "exfiltration",
+      "outbound_connection"
+    ],
+    "scfusion": [
+      "download",
+      "exfiltration",
+      "outbound_connection"
+    ],
+    "missing": [
+      "install"
+    ],
+    "foreman_coverage": 25.0,
+    "goleash_coverage": 50.0,
+    "scfusion_coverage": 75.0
+  },
+  "SC6": {
+    "ground_truth": [
+      "artifact_packaging",
+      "build_modification",
+      "credential_exposure",
+      "publishing"
+    ],
+    "foreman": [
+      "artifact_packaging",
+      "build_modification"
+    ],
+    "goleash": [
+      "artifact_packaging"
+    ],
+    "scfusion": [
+      "artifact_packaging",
+      "build_modification"
+    ],
+    "missing": [
+      "credential_exposure",
+      "publishing"
+    ],
+    "foreman_coverage": 50.0,
+    "goleash_coverage": 25.0,
+    "scfusion_coverage": 50.0
+  },
+  "SC7": {
+    "ground_truth": [
+      "download",
+      "exfiltration",
+      "outbound_connection"
+    ],
+    "foreman": [
+      "download"
+    ],
+    "goleash": [
+      "outbound_connection"
+    ],
+    "scfusion": [
+      "download",
+      "outbound_connection"
+    ],
+    "missing": [
+      "exfiltration"
+    ],
+    "foreman_coverage": 33.33333333333333,
+    "goleash_coverage": 33.33333333333333,
+    "scfusion_coverage": 66.66666666666666
+  }
+}

@@ -1,0 +1,4 @@
+SC5 GoLeash Surrogate
+[runtime] Localhost connection established
+[runtime] Sent 31 benign bytes
+[runtime] Local receiver obtained 31 bytes

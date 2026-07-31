@@ -1,0 +1,20 @@
+SC3 GoLeash result
+
+Ground-truth stages:
+1. Install
+2. File Collection
+3. Archive Creation
+4. Outbound Connection
+5. Exfiltration
+
+Detected stages:
+- File Collection
+- Outbound Connection
+
+Evidence:
+- GoLeash attributed os.ReadFile activity to github.com/sc3surrogate/runtimebehavior.
+- The traced caller function was runtimebehavior.Run.
+- The captured stack trace included net.DialTimeout and netFD.connect.
+- The generated tracestore contains a non-empty dependency entry with CAP_READ_FILE.
+
+Coverage: 2/5 = 40%

@@ -1,0 +1,19 @@
+SC1 combined result
+
+Foreman:
+- Install
+- Payload Execution
+Coverage: 2/4 = 50%
+
+GoLeash:
+- Outbound Connection
+Coverage: 1/4 = 25%
+
+SCFusion:
+- Install
+- Payload Execution
+- Outbound Connection
+Coverage: 3/4 = 75%
+
+Missing:
+- Payload Access

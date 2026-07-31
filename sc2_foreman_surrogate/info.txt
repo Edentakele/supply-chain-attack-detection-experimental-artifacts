@@ -1,0 +1,7 @@
+install accessed /Users/eden/Desktop/verified_experiments/sc2_foreman_surrogate/logs
+install modified and changed /Users/eden/Desktop/verified_experiments/sc2_foreman_surrogate/startup
+install modified and changed /Users/eden/Desktop/verified_experiments/sc2_foreman_surrogate/outputs
+install accessed /Users/eden/Desktop/verified_experiments/sc2_foreman_surrogate/package
+install modified and changed /Users/eden/Desktop/verified_experiments/sc2_foreman_surrogate/logs/sc2_foreman_console.txt
+install created /Users/eden/Desktop/verified_experiments/sc2_foreman_surrogate/startup/sc2_autostart.conf
+install created /Users/eden/Desktop/verified_experiments/sc2_foreman_surrogate/outputs/installed_payload.txt

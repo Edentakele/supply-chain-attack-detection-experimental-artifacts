@@ -1,0 +1,5 @@
+install accessed /Users/eden/Desktop/verified_experiments/sc7_foreman_surrogate/logs
+install modified and changed /Users/eden/Desktop/verified_experiments/sc7_foreman_surrogate/service
+install accessed /Users/eden/Desktop/verified_experiments/sc7_foreman_surrogate/package
+install modified and changed /Users/eden/Desktop/verified_experiments/sc7_foreman_surrogate/logs/sc7_foreman_console.txt
+install created /Users/eden/Desktop/verified_experiments/sc7_foreman_surrogate/service/model_payload.bin

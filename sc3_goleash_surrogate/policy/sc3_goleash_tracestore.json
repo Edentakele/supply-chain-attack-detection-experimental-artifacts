@@ -1,0 +1,83 @@
+{
+  "github.com/sc3surrogate/runtimebehavior": {
+    "type": "dep",
+    "path": "github.com/sc3surrogate/runtimebehavior",
+    "syscalls": [
+      19,
+      20,
+      21,
+      25,
+      56,
+      57,
+      63,
+      64,
+      80,
+      98,
+      198,
+      203,
+      209
+    ],
+    "capabilities": [
+      "CAP_DIRECT_IO",
+      "CAP_EXEC",
+      "CAP_FILE_METADATA",
+      "CAP_MEMORY_MANIPULATION",
+      "CAP_MODIFY_SYSTEM_STATE",
+      "CAP_READ_FILE",
+      "CAP_READ_SYSTEM_STATE",
+      "CAP_WRITE_FILE"
+    ],
+    "executed_binaries": [],
+    "syscalls_paths": {
+      "19": [
+        15743
+      ],
+      "198": [
+        7114
+      ],
+      "20": [
+        15743
+      ],
+      "203": [
+        8200
+      ],
+      "209": [
+        2151
+      ],
+      "21": [
+        15743,
+        11320,
+        15034,
+        10639
+      ],
+      "25": [
+        14823,
+        4260,
+        14090,
+        16134
+      ],
+      "56": [
+        8926
+      ],
+      "57": [
+        4194,
+        11750
+      ],
+      "63": [
+        13827
+      ],
+      "64": [
+        3058,
+        2786,
+        8573,
+        11884
+      ],
+      "80": [
+        8127
+      ],
+      "98": [
+        4751
+      ]
+    }
+  }
+}

@@ -1,0 +1,3 @@
+[install] Starting SC5 software installer
+[install] Embedded payload deployed
+[install] Installation phase finished

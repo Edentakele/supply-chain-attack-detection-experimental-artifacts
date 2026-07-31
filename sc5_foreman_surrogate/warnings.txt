@@ -1,0 +1,2 @@
+warning: install modified and changed /Users/eden/Desktop/verified_experiments/sc5_foreman_surrogate/payload
+warning: install created /Users/eden/Desktop/verified_experiments/sc5_foreman_surrogate/payload/payload.bin

@@ -1,0 +1,22 @@
+SC1 GoLeash result
+
+Ground-truth stages:
+1. Install
+2. Payload Access
+3. Payload Execution
+4. Outbound Connection
+
+Detected stage:
+- Outbound Connection
+
+Evidence:
+- GoLeash attributed syscall 203 to github.com/sc1surrogate/embeddedpayload.
+- The captured stack trace included net.DialTimeout and embeddedpayload.Run.
+- The connection was restricted to localhost at 127.0.0.1:4444.
+
+Stages not counted:
+- Install
+- Payload Access
+- Payload Execution
+
+Coverage: 1/4 = 25%

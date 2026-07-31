@@ -1,0 +1,3 @@
+warning: install modified and changed /Users/eden/Desktop/verified_experiments/sc4_foreman_surrogate/exfil
+warning: install created /Users/eden/Desktop/verified_experiments/sc4_foreman_surrogate/payload.js
+warning: install created /Users/eden/Desktop/verified_experiments/sc4_foreman_surrogate/exfil/system_info.txt

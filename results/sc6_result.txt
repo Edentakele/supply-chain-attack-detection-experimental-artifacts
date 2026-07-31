@@ -1,0 +1,25 @@
+SC6 Result
+
+Ground-truth stages:
+1. Credential Exposure
+2. Build Modification
+3. Artifact Packaging
+4. Publishing
+
+Foreman:
+- Build Modification
+- Artifact Packaging
+Coverage: 2/4 = 50%
+
+GoLeash:
+- Artifact Packaging
+Coverage: 1/4 = 25%
+
+SCFusion:
+- Build Modification
+- Artifact Packaging
+Coverage: 2/4 = 50%
+
+Missing:
+- Credential Exposure
+- Publishing

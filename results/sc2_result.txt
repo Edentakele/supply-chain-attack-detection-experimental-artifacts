@@ -1,0 +1,30 @@
+SC2 Result
+
+Ground-truth stages:
+1. Install
+2. Persistence Setup
+3. File Replacement
+4. Payload Installation
+5. Runtime Execution
+6. Outbound Connection
+
+Foreman:
+- Persistence Setup
+- Payload Installation
+Coverage: 2/6 = 33.3%
+
+GoLeash:
+- Runtime Execution
+- Outbound Connection
+Coverage: 2/6 = 33.3%
+
+SCFusion:
+- Persistence Setup
+- Payload Installation
+- Runtime Execution
+- Outbound Connection
+Coverage: 4/6 = 66.7%
+
+Missing:
+- Install
+- File Replacement

@@ -1,0 +1,5 @@
+[install] Starting SC4 package installation
+[install] Cache token created
+[install] Payload artifact prepared
+[install] Benign system information collected
+[install] Installation finished

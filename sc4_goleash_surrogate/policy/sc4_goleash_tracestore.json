@@ -1,0 +1,55 @@
+{
+  "github.com/sc4surrogate/cachebehavior": {
+    "type": "dep",
+    "path": "github.com/sc4surrogate/cachebehavior",
+    "syscalls": [
+      19,
+      20,
+      21,
+      25,
+      56,
+      57,
+      64,
+      79
+    ],
+    "capabilities": [
+      "CAP_EXEC",
+      "CAP_MEMORY_MANIPULATION",
+      "CAP_READ_FILE",
+      "CAP_READ_SYSTEM_STATE",
+      "CAP_WRITE_FILE"
+    ],
+    "executed_binaries": [],
+    "syscalls_paths": {
+      "19": [
+        15527
+      ],
+      "20": [
+        15527
+      ],
+      "21": [
+        15527,
+        12431
+      ],
+      "25": [
+        14927,
+        10470,
+        7029,
+        1507
+      ],
+      "56": [
+        10835
+      ],
+      "57": [
+        15572
+      ],
+      "64": [
+        11622,
+        7637
+      ],
+      "79": [
+        11952
+      ]
+    }
+  }
+}

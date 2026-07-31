@@ -1,0 +1,8 @@
+Scenario,Stages,Foreman,GoLeash,SCFusion,Foreman Stages,GoLeash Stages,Fused Stages,Missing
+SC1,4,50,25,75,install; payload_execution,outbound_connection,install; outbound_connection; payload_execution,payload_access
+SC2,6,33,33,67,payload_installation; persistence_setup,outbound_connection; runtime_execution,outbound_connection; payload_installation; persistence_setup; runtime_execution,file_replacement; install
+SC3,5,20,40,60,archive_creation,file_collection; outbound_connection,archive_creation; file_collection; outbound_connection,exfiltration; install
+SC4,4,50,25,50,download; exfiltration,exfiltration,download; exfiltration,install; outbound_connection
+SC5,4,25,50,75,download,exfiltration; outbound_connection,download; exfiltration; outbound_connection,install
+SC6,4,50,25,50,artifact_packaging; build_modification,artifact_packaging,artifact_packaging; build_modification,credential_exposure; publishing
+SC7,3,33,33,67,download,outbound_connection,download; outbound_connection,exfiltration

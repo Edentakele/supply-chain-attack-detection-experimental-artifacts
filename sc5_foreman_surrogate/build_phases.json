@@ -1,0 +1,11 @@
+[
+  {
+    "name": "install",
+    "commands": [["python3", "package/setup.py"]],
+    "permissions": {
+      "file": {
+        "restricted": ["payload/"]
+      }
+    }
+  }
+]

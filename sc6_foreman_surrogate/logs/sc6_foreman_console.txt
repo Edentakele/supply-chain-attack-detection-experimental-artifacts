@@ -1,0 +1,4 @@
+[build] Starting SC6 build process
+[build] Build configuration modified
+[build] Artifact package created
+[build] Build process finished

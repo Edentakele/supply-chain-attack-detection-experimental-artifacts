@@ -1,0 +1,6 @@
+SC1 GoLeash Surrogate - Benign Application
+[payload] Accessing benign image payload
+[payload] Read 51 bytes
+[payload] Benign embedded payload executed
+[payload] Attempting harmless localhost connection
+[payload] Localhost connection unavailable: dial tcp 127.0.0.1:4444: connect: connection refused

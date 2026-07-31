@@ -1,0 +1,178 @@
+{
+  "SC1": {
+    "ground_truth": [
+      "install",
+      "outbound_connection",
+      "payload_access",
+      "payload_execution"
+    ],
+    "detected": [
+      "payload_execution"
+    ],
+    "missing": [
+      "install",
+      "outbound_connection",
+      "payload_access"
+    ],
+    "matched_rules": [
+      {
+        "artifact": "payload_execution.marker",
+        "stage": "payload_execution"
+      }
+    ],
+    "exact_coverage": 25.0,
+    "reported_coverage": 25
+  },
+  "SC2": {
+    "ground_truth": [
+      "file_replacement",
+      "install",
+      "outbound_connection",
+      "payload_installation",
+      "persistence_setup",
+      "runtime_execution"
+    ],
+    "detected": [
+      "payload_installation",
+      "persistence_setup"
+    ],
+    "missing": [
+      "file_replacement",
+      "install",
+      "outbound_connection",
+      "runtime_execution"
+    ],
+    "matched_rules": [
+      {
+        "artifact": "sc2_autostart.conf",
+        "stage": "persistence_setup"
+      },
+      {
+        "artifact": "installed_payload.txt",
+        "stage": "payload_installation"
+      }
+    ],
+    "exact_coverage": 33.33333333333333,
+    "reported_coverage": 33
+  },
+  "SC3": {
+    "ground_truth": [
+      "archive_creation",
+      "exfiltration",
+      "file_collection",
+      "install",
+      "outbound_connection"
+    ],
+    "detected": [
+      "archive_creation"
+    ],
+    "missing": [
+      "exfiltration",
+      "file_collection",
+      "install",
+      "outbound_connection"
+    ],
+    "matched_rules": [
+      {
+        "artifact": "archive.zip",
+        "stage": "archive_creation"
+      }
+    ],
+    "exact_coverage": 20.0,
+    "reported_coverage": 20
+  },
+  "SC4": {
+    "ground_truth": [
+      "download",
+      "exfiltration",
+      "install",
+      "outbound_connection"
+    ],
+    "detected": [
+      "download"
+    ],
+    "missing": [
+      "exfiltration",
+      "install",
+      "outbound_connection"
+    ],
+    "matched_rules": [
+      {
+        "artifact": "payload.js",
+        "stage": "download"
+      }
+    ],
+    "exact_coverage": 25.0,
+    "reported_coverage": 25
+  },
+  "SC5": {
+    "ground_truth": [
+      "download",
+      "exfiltration",
+      "install",
+      "outbound_connection"
+    ],
+    "detected": [
+      "download"
+    ],
+    "missing": [
+      "exfiltration",
+      "install",
+      "outbound_connection"
+    ],
+    "matched_rules": [
+      {
+        "artifact": "payload.bin",
+        "stage": "download"
+      }
+    ],
+    "exact_coverage": 25.0,
+    "reported_coverage": 25
+  },
+  "SC6": {
+    "ground_truth": [
+      "artifact_packaging",
+      "build_modification",
+      "credential_exposure",
+      "publishing"
+    ],
+    "detected": [
+      "artifact_packaging"
+    ],
+    "missing": [
+      "build_modification",
+      "credential_exposure",
+      "publishing"
+    ],
+    "matched_rules": [
+      {
+        "artifact": "build_artifact.zip",
+        "stage": "artifact_packaging"
+      }
+    ],
+    "exact_coverage": 25.0,
+    "reported_coverage": 25
+  },
+  "SC7": {
+    "ground_truth": [
+      "download",
+      "exfiltration",
+      "outbound_connection"
+    ],
+    "detected": [
+      "download"
+    ],
+    "missing": [
+      "exfiltration",
+      "outbound_connection"
+    ],
+    "matched_rules": [
+      {
+        "artifact": "model_payload.bin",
+        "stage": "download"
+      }
+    ],
+    "exact_coverage": 33.33333333333333,
+    "reported_coverage": 33
+  }
+}
