@@ -1,0 +1,269 @@
+{
+  "SC1": {
+    "ground_truth": [
+      "install",
+      "outbound_connection",
+      "payload_access",
+      "payload_execution"
+    ],
+    "detected": [
+      "payload_execution"
+    ],
+    "missing": [
+      "install",
+      "outbound_connection",
+      "payload_access"
+    ],
+    "matched_rules": [
+      {
+        "artifact": "payload_execution.marker",
+        "stage": "payload_execution",
+        "sources": [
+          {
+            "kind": "retained_file",
+            "source": "sc1_foreman_surrogate/outputs/payload_execution.marker"
+          },
+          {
+            "kind": "archived_creation_record",
+            "source": "sc1_foreman_surrogate/info.txt:6",
+            "record": "install created /Users/eden/Desktop/verified_experiments/sc1_foreman_surrogate/outputs/payload_execution.marker"
+          }
+        ]
+      }
+    ],
+    "exact_coverage": 25.0,
+    "reported_coverage": 25,
+    "inventory_mode": "retained-files-plus-archived-creations"
+  },
+  "SC2": {
+    "ground_truth": [
+      "file_replacement",
+      "install",
+      "outbound_connection",
+      "payload_installation",
+      "persistence_setup",
+      "runtime_execution"
+    ],
+    "detected": [
+      "payload_installation",
+      "persistence_setup"
+    ],
+    "missing": [
+      "file_replacement",
+      "install",
+      "outbound_connection",
+      "runtime_execution"
+    ],
+    "matched_rules": [
+      {
+        "artifact": "sc2_autostart.conf",
+        "stage": "persistence_setup",
+        "sources": [
+          {
+            "kind": "retained_file",
+            "source": "sc2_foreman_surrogate/startup/sc2_autostart.conf"
+          },
+          {
+            "kind": "archived_creation_record",
+            "source": "sc2_foreman_surrogate/info.txt:6",
+            "record": "install created /Users/eden/Desktop/verified_experiments/sc2_foreman_surrogate/startup/sc2_autostart.conf"
+          }
+        ]
+      },
+      {
+        "artifact": "installed_payload.txt",
+        "stage": "payload_installation",
+        "sources": [
+          {
+            "kind": "retained_file",
+            "source": "sc2_foreman_surrogate/outputs/installed_payload.txt"
+          },
+          {
+            "kind": "archived_creation_record",
+            "source": "sc2_foreman_surrogate/info.txt:7",
+            "record": "install created /Users/eden/Desktop/verified_experiments/sc2_foreman_surrogate/outputs/installed_payload.txt"
+          }
+        ]
+      }
+    ],
+    "exact_coverage": 33.33333333333333,
+    "reported_coverage": 33,
+    "inventory_mode": "retained-files-plus-archived-creations"
+  },
+  "SC3": {
+    "ground_truth": [
+      "archive_creation",
+      "exfiltration",
+      "file_collection",
+      "install",
+      "outbound_connection"
+    ],
+    "detected": [
+      "archive_creation"
+    ],
+    "missing": [
+      "exfiltration",
+      "file_collection",
+      "install",
+      "outbound_connection"
+    ],
+    "matched_rules": [
+      {
+        "artifact": "archive.zip",
+        "stage": "archive_creation",
+        "sources": [
+          {
+            "kind": "archived_creation_record",
+            "source": "sc3_foreman_surrogate/info.txt:5",
+            "record": "install created /Users/eden/Desktop/verified_experiments/sc3_foreman_surrogate/archive/archive.zip"
+          }
+        ]
+      }
+    ],
+    "exact_coverage": 20.0,
+    "reported_coverage": 20,
+    "inventory_mode": "retained-files-plus-archived-creations"
+  },
+  "SC4": {
+    "ground_truth": [
+      "download",
+      "exfiltration",
+      "install",
+      "outbound_connection"
+    ],
+    "detected": [
+      "download"
+    ],
+    "missing": [
+      "exfiltration",
+      "install",
+      "outbound_connection"
+    ],
+    "matched_rules": [
+      {
+        "artifact": "payload.js",
+        "stage": "download",
+        "sources": [
+          {
+            "kind": "retained_file",
+            "source": "sc4_foreman_surrogate/payload.js"
+          },
+          {
+            "kind": "archived_creation_record",
+            "source": "sc4_foreman_surrogate/info.txt:4",
+            "record": "install created /Users/eden/Desktop/verified_experiments/sc4_foreman_surrogate/payload.js"
+          }
+        ]
+      }
+    ],
+    "exact_coverage": 25.0,
+    "reported_coverage": 25,
+    "inventory_mode": "retained-files-plus-archived-creations"
+  },
+  "SC5": {
+    "ground_truth": [
+      "download",
+      "exfiltration",
+      "install",
+      "outbound_connection"
+    ],
+    "detected": [
+      "download"
+    ],
+    "missing": [
+      "exfiltration",
+      "install",
+      "outbound_connection"
+    ],
+    "matched_rules": [
+      {
+        "artifact": "payload.bin",
+        "stage": "download",
+        "sources": [
+          {
+            "kind": "retained_file",
+            "source": "sc5_foreman_surrogate/payload/payload.bin"
+          },
+          {
+            "kind": "archived_creation_record",
+            "source": "sc5_foreman_surrogate/info.txt:4",
+            "record": "install created /Users/eden/Desktop/verified_experiments/sc5_foreman_surrogate/payload/payload.bin"
+          }
+        ]
+      }
+    ],
+    "exact_coverage": 25.0,
+    "reported_coverage": 25,
+    "inventory_mode": "retained-files-plus-archived-creations"
+  },
+  "SC6": {
+    "ground_truth": [
+      "artifact_packaging",
+      "build_modification",
+      "credential_exposure",
+      "publishing"
+    ],
+    "detected": [
+      "artifact_packaging"
+    ],
+    "missing": [
+      "build_modification",
+      "credential_exposure",
+      "publishing"
+    ],
+    "matched_rules": [
+      {
+        "artifact": "build_artifact.zip",
+        "stage": "artifact_packaging",
+        "sources": [
+          {
+            "kind": "archived_creation_record",
+            "source": "sc6_foreman_surrogate/info.txt:7",
+            "record": "build created /Users/eden/Desktop/verified_experiments/sc6_foreman_surrogate/artifact/build_artifact.zip"
+          }
+        ]
+      }
+    ],
+    "exact_coverage": 25.0,
+    "reported_coverage": 25,
+    "inventory_mode": "retained-files-plus-archived-creations"
+  },
+  "SC7": {
+    "ground_truth": [
+      "download",
+      "exfiltration",
+      "outbound_connection"
+    ],
+    "detected": [
+      "download"
+    ],
+    "missing": [
+      "exfiltration",
+      "outbound_connection"
+    ],
+    "matched_rules": [
+      {
+        "artifact": "model_payload.bin",
+        "stage": "download",
+        "sources": [
+          {
+            "kind": "retained_file",
+            "source": "sc7_foreman_surrogate/package/model_payload.bin"
+          },
+          {
+            "kind": "retained_file",
+            "source": "sc7_foreman_surrogate/service/model_payload.bin"
+          },
+          {
+            "kind": "archived_creation_record",
+            "source": "sc7_foreman_surrogate/info.txt:5",
+            "record": "install created /Users/eden/Desktop/verified_experiments/sc7_foreman_surrogate/service/model_payload.bin"
+          }
+        ]
+      }
+    ],
+    "exact_coverage": 33.33333333333333,
+    "reported_coverage": 33,
+    "inventory_mode": "retained-files-plus-archived-creations"
+  }
+}

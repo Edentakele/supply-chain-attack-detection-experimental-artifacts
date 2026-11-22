@@ -1,9 +1,9 @@
 SC1: 25% (payload_execution)
 SC2: 33% (payload_installation, persistence_setup)
-SC3: 20% (archive_creation)
+SC3: 0% ()
 SC4: 25% (download)
 SC5: 25% (download)
-SC6: 25% (artifact_packaging)
+SC6: 0% ()
 SC7: 33% (download)
 
-Average coverage: 26.6%
+Average coverage: 20.1%

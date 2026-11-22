@@ -63,23 +63,17 @@
       "install",
       "outbound_connection"
     ],
-    "detected": [
-      "archive_creation"
-    ],
+    "detected": [],
     "missing": [
+      "archive_creation",
       "exfiltration",
       "file_collection",
       "install",
       "outbound_connection"
     ],
-    "matched_rules": [
-      {
-        "artifact": "archive.zip",
-        "stage": "archive_creation"
-      }
-    ],
-    "exact_coverage": 20.0,
-    "reported_coverage": 20
+    "matched_rules": [],
+    "exact_coverage": 0.0,
+    "reported_coverage": 0
   },
   "SC4": {
     "ground_truth": [
@@ -136,22 +130,16 @@
       "credential_exposure",
       "publishing"
     ],
-    "detected": [
-      "artifact_packaging"
-    ],
+    "detected": [],
     "missing": [
+      "artifact_packaging",
       "build_modification",
       "credential_exposure",
       "publishing"
     ],
-    "matched_rules": [
-      {
-        "artifact": "build_artifact.zip",
-        "stage": "artifact_packaging"
-      }
-    ],
-    "exact_coverage": 25.0,
-    "reported_coverage": 25
+    "matched_rules": [],
+    "exact_coverage": 0.0,
+    "reported_coverage": 0
   },
   "SC7": {
     "ground_truth": [

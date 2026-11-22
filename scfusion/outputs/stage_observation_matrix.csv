@@ -1,0 +1,31 @@
+scenario,ground_truth_stage,foreman_assigned,goleash_assigned,foreman_evidence,goleash_evidence,foreman_status,goleash_status,claim_status
+SC1,install,1,0,warnings.txt: outputs/install_completed.marker created; setup.py creates marker,No stage credit in V1,Supported as a surrogate action,Not credited,PROVISIONAL: manual stage mapping
+SC1,payload_access,0,0,No stage credit in V1,No stage credit in V1,Not credited,Not credited,PROVISIONAL: manual stage mapping
+SC1,payload_execution,1,0,warnings.txt: outputs/payload_execution.marker created; payload_stage/image_payload.txt creates marker,No stage credit in V1,"Supported as surrogate action, indirect",Not credited,PROVISIONAL: manual stage mapping
+SC1,outbound_connection,0,1,No stage credit in V1,"goleash_console.txt: syscall 203, net.DialTimeout; application_output reports connection refused",Not credited,Supported as attempted connection,PROVISIONAL: manual stage mapping
+SC2,install,0,0,No stage credit in V1,No stage credit in V1,Not credited,Not credited,PROVISIONAL: manual stage mapping
+SC2,persistence_setup,1,0,warnings.txt: startup/sc2_autostart.conf created,No stage credit in V1,Supported as surrogate action,Not credited,PROVISIONAL: manual stage mapping
+SC2,file_replacement,0,0,No stage credit in V1,No stage credit in V1,Not credited,Not credited,PROVISIONAL: manual stage mapping
+SC2,payload_installation,1,0,warnings.txt: outputs/installed_payload.txt created,No stage credit in V1,Supported as surrogate action,Not credited,PROVISIONAL: manual stage mapping
+SC2,runtime_execution,0,1,No stage credit in V1,goleash_console.txt: attributed runtimebehavior.Run; application_output: installed payload executing,Not credited,Partial / weak distinct-stage evidence,PROVISIONAL: manual stage mapping
+SC2,outbound_connection,0,1,No stage credit in V1,goleash_console.txt: syscall 203 and net.DialTimeout; application_output: connection refused,Not credited,Supported as attempted connection,PROVISIONAL: manual stage mapping
+SC3,install,0,0,No stage credit in V1,No stage credit in V1,Not credited,Not credited,PROVISIONAL: manual stage mapping
+SC3,file_collection,0,1,No stage credit in V1,goleash_summary.txt: CAP_READ_FILE and os.ReadFile in runtimebehavior.Run; app reads data/system_info.txt,Not credited,Supported as read activity; semantic qualification,PROVISIONAL: manual stage mapping
+SC3,archive_creation,1,0,warnings.txt: archive/archive.zip created; setup.py uses zipfile,No stage credit in V1,Supported as surrogate action,Not credited,PROVISIONAL: manual stage mapping
+SC3,outbound_connection,0,1,No stage credit in V1,goleash_console.txt: syscall 203/net.DialTimeout; application_output: connection refused,Not credited,Supported as attempted connection,PROVISIONAL: manual stage mapping
+SC3,exfiltration,0,0,No stage credit in V1,No stage credit in V1,Not credited,Not credited,PROVISIONAL: manual stage mapping
+SC4,install,0,0,No stage credit in V1,No stage credit in V1,Not credited,Not credited,PROVISIONAL: manual stage mapping
+SC4,download,1,0,warnings.txt: payload.js created; setup.py writes payload.js locally,No stage credit in V1,NOT SUPPORTED by archived observations,Not credited,UNSUPPORTED CLAIM PRESENT
+SC4,outbound_connection,0,0,No stage credit in V1,No stage credit in V1,Not credited,Not credited,PROVISIONAL: manual stage mapping
+SC4,exfiltration,1,1,warnings.txt: exfil/system_info.txt created; setup.py writes file locally,goleash_summary.txt: os.WriteFile; cachebehavior/cache.go writes ../exfil/system_info.txt,NOT SUPPORTED as exfiltration,NOT SUPPORTED as exfiltration,UNSUPPORTED CLAIM PRESENT
+SC5,install,0,0,No stage credit in V1,No stage credit in V1,Not credited,Not credited,PROVISIONAL: manual stage mapping
+SC5,download,1,0,warnings.txt: payload/payload.bin created; setup.py shutil.copy2 from package/resources,No stage credit in V1,NOT SUPPORTED as remote download,Not credited,UNSUPPORTED CLAIM PRESENT
+SC5,outbound_connection,0,1,No stage credit in V1,goleash_console.txt: connect syscall; application_output: local connection established,Not credited,"Supported, localhost-only",PROVISIONAL: manual stage mapping
+SC5,exfiltration,0,1,No stage credit in V1,goleash_summary.txt: netFD.Write and CAP_SEND_DATA; application_output: 31 bytes sent and received,Not credited,"Supported for benign transfer, semantic caveat",PROVISIONAL: manual stage mapping
+SC6,credential_exposure,0,0,No stage credit in V1,No stage credit in V1,Not credited,Not credited,PROVISIONAL: manual stage mapping
+SC6,build_modification,1,0,warnings.txt: source/build_config.py modified; setup.py writes BUILD_MODE,No stage credit in V1,Supported as surrogate action,Not credited,PROVISIONAL: manual stage mapping
+SC6,artifact_packaging,1,1,warnings.txt: artifact/build_artifact.zip created; setup.py uses zipfile,goleash_summary.txt: archive/zip.(*Writer).Close and os.OpenFile; artifact.go creates ZIP,Supported as surrogate action,"Supported as archive activity, semantic caveat",PROVISIONAL: manual stage mapping
+SC6,publishing,0,0,No stage credit in V1,No stage credit in V1,Not credited,Not credited,PROVISIONAL: manual stage mapping
+SC7,download,1,0,warnings.txt: service/model_payload.bin created; setup.py copies package/model_payload.bin,No stage credit in V1,NOT SUPPORTED as remote download,Not credited,UNSUPPORTED CLAIM PRESENT
+SC7,outbound_connection,0,1,No stage credit in V1,goleash_console.txt: connect syscall; application_output: connection refused,Not credited,Supported as attempted connection,PROVISIONAL: manual stage mapping
+SC7,exfiltration,0,0,No stage credit in V1,No stage credit in V1,Not credited,Not credited,PROVISIONAL: manual stage mapping

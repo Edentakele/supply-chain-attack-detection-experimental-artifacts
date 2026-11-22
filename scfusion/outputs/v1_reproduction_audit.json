@@ -1,0 +1,173 @@
+{
+  "results": {
+    "SC1": {
+      "total_stages": 4,
+      "foreman_stages": [
+        "install",
+        "payload_execution"
+      ],
+      "goleash_stages": [
+        "outbound_connection"
+      ],
+      "overlap_stages": [],
+      "overlap_count": 0,
+      "fused_stages": [
+        "install",
+        "outbound_connection",
+        "payload_execution"
+      ],
+      "missing_stages": [
+        "payload_access"
+      ],
+      "foreman_percent": 50.0,
+      "goleash_percent": 25.0,
+      "scfusion_percent": 75.0
+    },
+    "SC2": {
+      "total_stages": 6,
+      "foreman_stages": [
+        "payload_installation",
+        "persistence_setup"
+      ],
+      "goleash_stages": [
+        "outbound_connection",
+        "runtime_execution"
+      ],
+      "overlap_stages": [],
+      "overlap_count": 0,
+      "fused_stages": [
+        "outbound_connection",
+        "payload_installation",
+        "persistence_setup",
+        "runtime_execution"
+      ],
+      "missing_stages": [
+        "file_replacement",
+        "install"
+      ],
+      "foreman_percent": 33.333333333333336,
+      "goleash_percent": 33.333333333333336,
+      "scfusion_percent": 66.66666666666667
+    },
+    "SC3": {
+      "total_stages": 5,
+      "foreman_stages": [
+        "archive_creation"
+      ],
+      "goleash_stages": [
+        "file_collection",
+        "outbound_connection"
+      ],
+      "overlap_stages": [],
+      "overlap_count": 0,
+      "fused_stages": [
+        "archive_creation",
+        "file_collection",
+        "outbound_connection"
+      ],
+      "missing_stages": [
+        "exfiltration",
+        "install"
+      ],
+      "foreman_percent": 20.0,
+      "goleash_percent": 40.0,
+      "scfusion_percent": 60.0
+    },
+    "SC4": {
+      "total_stages": 4,
+      "foreman_stages": [
+        "download",
+        "exfiltration"
+      ],
+      "goleash_stages": [
+        "exfiltration"
+      ],
+      "overlap_stages": [
+        "exfiltration"
+      ],
+      "overlap_count": 1,
+      "fused_stages": [
+        "download",
+        "exfiltration"
+      ],
+      "missing_stages": [
+        "install",
+        "outbound_connection"
+      ],
+      "foreman_percent": 50.0,
+      "goleash_percent": 25.0,
+      "scfusion_percent": 50.0
+    },
+    "SC5": {
+      "total_stages": 4,
+      "foreman_stages": [
+        "download"
+      ],
+      "goleash_stages": [
+        "exfiltration",
+        "outbound_connection"
+      ],
+      "overlap_stages": [],
+      "overlap_count": 0,
+      "fused_stages": [
+        "download",
+        "exfiltration",
+        "outbound_connection"
+      ],
+      "missing_stages": [
+        "install"
+      ],
+      "foreman_percent": 25.0,
+      "goleash_percent": 50.0,
+      "scfusion_percent": 75.0
+    },
+    "SC6": {
+      "total_stages": 4,
+      "foreman_stages": [
+        "artifact_packaging",
+        "build_modification"
+      ],
+      "goleash_stages": [
+        "artifact_packaging"
+      ],
+      "overlap_stages": [
+        "artifact_packaging"
+      ],
+      "overlap_count": 1,
+      "fused_stages": [
+        "artifact_packaging",
+        "build_modification"
+      ],
+      "missing_stages": [
+        "credential_exposure",
+        "publishing"
+      ],
+      "foreman_percent": 50.0,
+      "goleash_percent": 25.0,
+      "scfusion_percent": 50.0
+    },
+    "SC7": {
+      "total_stages": 3,
+      "foreman_stages": [
+        "download"
+      ],
+      "goleash_stages": [
+        "outbound_connection"
+      ],
+      "overlap_stages": [],
+      "overlap_count": 0,
+      "fused_stages": [
+        "download",
+        "outbound_connection"
+      ],
+      "missing_stages": [
+        "exfiltration"
+      ],
+      "foreman_percent": 33.333333333333336,
+      "goleash_percent": 33.333333333333336,
+      "scfusion_percent": 66.66666666666667
+    }
+  },
+  "unverified_detector_stage_credits": 21,
+  "verification_status": "unverified"
+}

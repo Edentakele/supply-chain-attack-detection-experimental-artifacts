@@ -1,0 +1,8 @@
+scenario,foreman_only,goleash_only,both,neither,unique_F,unique_G,overlap,missed
+SC1,install; payload_execution,outbound_connection,,payload_access,2,1,0,1
+SC2,payload_installation; persistence_setup,outbound_connection; runtime_execution,,file_replacement; install,2,2,0,2
+SC3,archive_creation,file_collection; outbound_connection,,exfiltration; install,1,2,0,2
+SC4,download,,exfiltration,install; outbound_connection,1,0,1,2
+SC5,download,exfiltration; outbound_connection,,install,1,2,0,1
+SC6,build_modification,,artifact_packaging,credential_exposure; publishing,1,0,1,2
+SC7,download,outbound_connection,,exfiltration,1,1,0,1

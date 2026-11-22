@@ -1,0 +1,8 @@
+scenario,stages,detected,matched_artifact,provenance,fraction,coverage_pct
+SC1,4,payload_execution,payload_execution.marker,sc1_foreman_surrogate/outputs/payload_execution.marker; sc1_foreman_surrogate/info.txt:6,1/4,25.0
+SC2,6,payload_installation; persistence_setup,sc2_autostart.conf; installed_payload.txt,sc2_foreman_surrogate/startup/sc2_autostart.conf; sc2_foreman_surrogate/info.txt:6; sc2_foreman_surrogate/outputs/installed_payload.txt; sc2_foreman_surrogate/info.txt:7,2/6,33.33333333333333
+SC3,5,archive_creation,archive.zip,sc3_foreman_surrogate/info.txt:5,1/5,20.0
+SC4,4,download,payload.js,sc4_foreman_surrogate/payload.js; sc4_foreman_surrogate/info.txt:4,1/4,25.0
+SC5,4,download,payload.bin,sc5_foreman_surrogate/payload/payload.bin; sc5_foreman_surrogate/info.txt:4,1/4,25.0
+SC6,4,artifact_packaging,build_artifact.zip,sc6_foreman_surrogate/info.txt:7,1/4,25.0
+SC7,3,download,model_payload.bin,sc7_foreman_surrogate/package/model_payload.bin; sc7_foreman_surrogate/service/model_payload.bin; sc7_foreman_surrogate/info.txt:5,1/3,33.33333333333333

@@ -1,0 +1,100 @@
+{
+  "SC1": {
+    "ground_truth": [
+      "install",
+      "payload_access",
+      "payload_execution",
+      "outbound_connection"
+    ],
+    "foreman": [
+      "install",
+      "payload_execution"
+    ],
+    "goleash": [
+      "outbound_connection"
+    ]
+  },
+  "SC2": {
+    "ground_truth": [
+      "install",
+      "persistence_setup",
+      "file_replacement",
+      "payload_installation",
+      "runtime_execution",
+      "outbound_connection"
+    ],
+    "foreman": [
+      "persistence_setup",
+      "payload_installation"
+    ],
+    "goleash": [
+      "runtime_execution",
+      "outbound_connection"
+    ]
+  },
+  "SC3": {
+    "ground_truth": [
+      "install",
+      "file_collection",
+      "archive_creation",
+      "outbound_connection",
+      "exfiltration"
+    ],
+    "foreman": [
+      "archive_creation"
+    ],
+    "goleash": [
+      "file_collection",
+      "outbound_connection"
+    ]
+  },
+  "SC4": {
+    "ground_truth": [
+      "install",
+      "download",
+      "outbound_connection",
+      "exfiltration"
+    ],
+    "foreman": [],
+    "goleash": []
+  },
+  "SC5": {
+    "ground_truth": [
+      "install",
+      "download",
+      "outbound_connection",
+      "exfiltration"
+    ],
+    "foreman": [],
+    "goleash": [
+      "outbound_connection",
+      "exfiltration"
+    ]
+  },
+  "SC6": {
+    "ground_truth": [
+      "credential_exposure",
+      "build_modification",
+      "artifact_packaging",
+      "publishing"
+    ],
+    "foreman": [
+      "build_modification",
+      "artifact_packaging"
+    ],
+    "goleash": [
+      "artifact_packaging"
+    ]
+  },
+  "SC7": {
+    "ground_truth": [
+      "download",
+      "outbound_connection",
+      "exfiltration"
+    ],
+    "foreman": [],
+    "goleash": [
+      "outbound_connection"
+    ]
+  }
+}

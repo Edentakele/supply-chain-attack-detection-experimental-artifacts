@@ -1,0 +1,8 @@
+scenario,ground_truth_count,historical_baseline_assigned_stages,historical_baseline_percent_in_paper,executed_baseline_matched_stages,executed_baseline_percent,same_result
+SC1,4,1,25.0,1,25.0,True
+SC2,6,2,33.3333,2,33.3333,True
+SC3,5,1,20.0,0,0.0,False
+SC4,4,1,25.0,1,25.0,True
+SC5,4,1,25.0,1,25.0,True
+SC6,4,1,25.0,0,0.0,False
+SC7,3,1,33.3333,1,33.3333,True

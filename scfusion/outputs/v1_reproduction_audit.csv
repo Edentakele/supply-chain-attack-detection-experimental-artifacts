@@ -1,0 +1,8 @@
+scenario,ground_truth_count,foreman_percent,goleash_percent,scfusion_percent,overlap_count,overlap_stages,status
+SC1,4,50.0000,25.0000,75.0000,0,,UNVERIFIED
+SC2,6,33.3333,33.3333,66.6667,0,,UNVERIFIED
+SC3,5,20.0000,40.0000,60.0000,0,,UNVERIFIED
+SC4,4,50.0000,25.0000,50.0000,1,exfiltration,UNVERIFIED
+SC5,4,25.0000,50.0000,75.0000,0,,UNVERIFIED
+SC6,4,50.0000,25.0000,50.0000,1,artifact_packaging,UNVERIFIED
+SC7,3,33.3333,33.3333,66.6667,0,,UNVERIFIED

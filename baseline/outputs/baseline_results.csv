@@ -1,8 +1,8 @@
 Scenario,Stages,Detected Stage,Matched Artifact,Coverage
 SC1,4,payload_execution,payload_execution.marker,25
 SC2,6,payload_installation; persistence_setup,sc2_autostart.conf; installed_payload.txt,33
-SC3,5,archive_creation,archive.zip,20
+SC3,5,,,0
 SC4,4,download,payload.js,25
 SC5,4,download,payload.bin,25
-SC6,4,artifact_packaging,build_artifact.zip,25
+SC6,4,,,0
 SC7,3,download,model_payload.bin,33

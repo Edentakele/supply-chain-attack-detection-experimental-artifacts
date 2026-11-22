@@ -1,70 +1,35 @@
-from pathlib import Path
-import csv
-import json
+"""Run the artifact-name baseline with auditable provenance.
 
+Default uses retained files plus created-file entries from archived Foreman
+info.txt, because some generated files are absent from the released snapshot.
+Use --snapshot-only to score retained files alone.
+"""
+from pathlib import Path
+from fractions import Fraction
+import argparse, csv, json
 from baseline import evaluate_scenario
 from scenarios import SCENARIOS
 
-
-root = Path(__file__).resolve().parent
-outputs = root / "outputs"
-outputs.mkdir(exist_ok=True)
-
-results = {}
-
-for scenario, configuration in SCENARIOS.items():
-    results[scenario] = evaluate_scenario(root, configuration)
-
-with (outputs / "baseline_results.json").open("w") as handle:
-    json.dump(results, handle, indent=2)
-    handle.write("\n")
-
-with (outputs / "baseline_results.csv").open("w", newline="") as handle:
-    writer = csv.writer(handle)
-    writer.writerow([
-        "Scenario",
-        "Stages",
-        "Detected Stage",
-        "Matched Artifact",
-        "Coverage",
-    ])
-
-    for scenario, result in results.items():
-        writer.writerow([
-            scenario,
-            len(result["ground_truth"]),
-            "; ".join(result["detected"]),
-            "; ".join(
-                rule["artifact"]
-                for rule in result["matched_rules"]
-            ),
-            result["reported_coverage"],
-        ])
-
-average = (
-    sum(result["reported_coverage"] for result in results.values())
-    / len(results)
-)
-
-with (outputs / "baseline_summary.txt").open("w") as handle:
-    for scenario, result in results.items():
-        handle.write(
-            f"{scenario}: "
-            f"{result['reported_coverage']}% "
-            f"({', '.join(result['detected'])})\n"
-        )
-
-    handle.write(f"\nAverage coverage: {average:.1f}%\n")
-
-print("| Scenario | Stages | Baseline | Detected Stage |")
-print("|---|---:|---:|---|")
-
-for scenario, result in results.items():
-    print(
-        f"| {scenario} | "
-        f"{len(result['ground_truth'])} | "
-        f"{result['reported_coverage']}% | "
-        f"{', '.join(result['detected'])} |"
-    )
-
-print(f"\nAverage baseline coverage: {average:.1f}%")
+parser=argparse.ArgumentParser()
+parser.add_argument('--snapshot-only',action='store_true',help='Ignore archived file creation evidence')
+args=parser.parse_args()
+root=Path(__file__).resolve().parent
+outputs=root/'outputs'; outputs.mkdir(exist_ok=True)
+results={}
+for scenario,config in SCENARIOS.items():
+    results[scenario]=evaluate_scenario(root,config,not args.snapshot_only)
+mode='snapshot' if args.snapshot_only else 'archived_artifact_inventory'
+with (outputs/f'baseline_results_{mode}.json').open('w') as f:
+    json.dump(results,f,indent=2);f.write('\n')
+with (outputs/f'baseline_results_{mode}.csv').open('w',newline='') as f:
+    w=csv.writer(f); w.writerow(['scenario','stages','detected','matched_artifact','provenance','fraction','coverage_pct'])
+    for sid,res in results.items():
+        w.writerow([sid,len(res['ground_truth']),'; '.join(res['detected']),
+                    '; '.join(m['artifact'] for m in res['matched_rules']),
+                    '; '.join(src['source'] for m in res['matched_rules'] for src in m['sources']),
+                    f"{len(res['detected'])}/{len(res['ground_truth'])}",res['exact_coverage']])
+mean=sum((Fraction(len(r['detected']),len(r['ground_truth'])) for r in results.values()),Fraction(0))/len(results)
+print('mode:',mode)
+for sid,res in results.items():
+    print(sid, f"{len(res['detected'])}/{len(res['ground_truth'])}",f"{res['exact_coverage']:.2f}%",'; '.join(res['detected']))
+print(f'macro-average: {float(mean*100):.4f}% (round to {float(mean*100):.1f}%)')
